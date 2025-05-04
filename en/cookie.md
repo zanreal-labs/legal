@@ -4,7 +4,7 @@ description: We use cookies and similar technologies. This Cookie Policy explain
 ---
 
 We use cookies and similar technologies. This Cookie Policy explains how we use cookies in connection with the Platform and your related choices.
-Capitalized terms used in this Cookie Policy but not defined here will have the meanings given to them in our [Privacy Policy](/legal/privacy-policy).
+Capitalized terms used in this Cookie Policy but not defined here will have the meanings given to them in our [Privacy Policy](/legal/privacy).
 You may also contact us at [privacy@zanreal.com](mailto:privacy@zanreal.com) with any additional questions.
 
 ## What are Cookies, Pixels and Local Storage?
