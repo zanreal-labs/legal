@@ -25,7 +25,7 @@ ZANREAL Labs AI Products are intended to provide tailored responses to users' pr
 - Prompt injection, or any attempt to discover ZANREAL Labs AI Products' or other ZANREAL Labs products' source code;
 - Representing that output is human-generated without reliance on AI;
 - Violation of intellectual property rights;
-- "High-risk" areas, as defined under applicable AI legislation (e.g, the EU AI Act);
+- "High-risk" areas, as defined under applicable AI legislation (e.g., the EU AI Act);
 - Creating and/or disseminating age-inappropriate, sexualized, and/or harmful content to, relating to, or about minors;
 - Compromising your privacy rights or the privacy rights of others, for example by submitting personal information as input in violation of privacy laws;
 - Developing or advancing facial recognition databases;
@@ -79,7 +79,7 @@ We leverage various third-party providers to enhance our services, and will cont
 - [Mistral](https://mistral.ai/terms/)
 - [Monterey.ai](https://www.monterey.ai/terms-of-service)
 - [Perplexity](https://www.perplexity.ai/hub/legal/terms-of-service)
-- [Repliacte](https://replicate.com/terms)
+- [Replicate](https://replicate.com/terms)
 
 **ZANREAL Labs Core Products**
 

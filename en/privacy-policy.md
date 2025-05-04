@@ -3,7 +3,7 @@ title: Privacy Policy
 description: At ZANREAL Labs, we respect customers' need for privacy. We offer our Sites and Services (defined below) to customers and users either directly or via a reseller.
 ---
 
-At ZANREAL Labs, we respect customers' need for privacy. We offer our Sites and Services (defined below) to customers and users either directly or via a reseller. Where we refer to our "Customers" in this Privacy Notice, we refer to customers that have entered into an agreement with us or our resellers to use the Services (each, an "Agreement"). Each Customers' respective website users or applicable visitors are referred to as their "End Users."
+At ZANREAL Labs, we respect customers' need for privacy. We offer our Sites and Services (defined below) to customers and users either directly or via a reseller. Where we refer to our "Customers" in this Privacy Notice, we refer to customers that have entered into an agreement with us or our resellers to use the Services (each, an "Agreement"). Each Customer's respective website users or applicable visitors are referred to as their "End Users."
 
 By using or accessing our Sites and Services in any manner, you accept the practices and policies outlined in this Privacy Notice and you acknowledge that we may process and share your information.
 

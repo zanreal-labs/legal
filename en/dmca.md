@@ -31,9 +31,9 @@ ZANREAL Labs will promptly respond to Notices of Infringement that comply with a
 Pursuant to Section 512(c)(3) of the DMCA, the written notice must include the following:
 
 - Your physical or electronic signature.
-- Identification of the copyrighted work you believe to have been infringed (or a representative list of works if the claim involves multiple works), including copies of, or references to, URL's where your copyrighted works reside so that we can verify that you are the copyright owner.
+- Identification of the copyrighted work you believe to have been infringed (or a representative list of works if the claim involves multiple works), including copies of, or references to, URLs where your copyrighted works reside so that we can verify that you are the copyright owner.
 - Identification of the material you believe to be infringing in a sufficiently precise manner to allow ZANREAL Labs to locate that material.
-- Adequate information by which ZANREAL Labs can contact you (including your name, mailing address, telephone number, and e-mail address).
+- Adequate information by which ZANREAL Labs can contact you (including your name, mailing address, telephone number, and email address).
 - A statement by you that you have a good faith belief that the use of the copyrighted materials is unauthorized by the copyright owner, its agent, or the law.
 - A statement that the information in the Notice of Infringement is accurate.
 - A statement, under penalty of perjury that you are authorized to act on behalf of the copyright owner.
@@ -48,7 +48,7 @@ Pursuant to the DMCA, the Counter-Notification must substantially include the fo
 
 - Your physical or electronic signature.
 - An identification of the material that has been removed or to which access has been disabled, along with the location at which the material appeared before it was removed or access was disabled.
-- Adequate information by which ZANREAL Labs can contact you (including, your name, mailing address, telephone number, and e-mail address).
+- Adequate information by which ZANREAL Labs can contact you (including, your name, mailing address, telephone number, and email address).
 - A statement by you, under penalty of perjury that you have a good faith belief that the material identified above was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled.
 - A statement by you that you will consent to the jurisdiction of the Federal District Court for the judicial district that your address is located (or if you reside outside the USA, for any judicial district in which the website may be found) and that you will accept service of process from the person (or that person's agent) who provided ZANREAL Labs with the Notice of Infringement at issue.
 
@@ -69,7 +69,7 @@ ZANREAL Labs designated copyright agent ("Designated Agent") to receive DMCA Not
 ZANREAL Mateusz Janota
 Attn: DMCA/ [dmca@zanreal.com](mailto:dmca@zanreal.com)
 Obywatelska 1/18
-44-200, Rybnik
+44-206, Rybnik
 Poland
 
 [dmca@zanreal.com](mailto:dmca@zanreal.com)

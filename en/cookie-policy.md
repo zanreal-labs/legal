@@ -19,7 +19,7 @@ It is important to understand that cookies (and the technologies listed above) c
 
 ## How and Why do We Use Cookies?
 
-We use both 1st party cookies (which are set by us) and 3rd party cookies (which are set by a server located outside the domain of our Site). Some of the cookies or similar technologies that we use are "strictly necessary" in that they are essential to the Site. Without them, the Site will not work. Other cookies or similar technologies, while not essential, help us improve our Platform or measure audiences. Why we use cookies is describe below in more detail.
+We use both 1st party cookies (which are set by us) and 3rd party cookies (which are set by a server located outside the domain of our Site). Some of the cookies or similar technologies that we use are "strictly necessary" in that they are essential to the Site. Without them, the Site will not work. Other cookies or similar technologies, while not essential, help us improve our Platform or measure audiences. Why we use cookies is described below in more detail.
 
 **Strictly Necessary or Essential Cookies**: These cookies are necessary for the Site to function and cannot be switched off in our systems. For example, we use cookies to authenticate you. When you log on to our websites, authentication cookies are set which let us know who you are during a browsing session. We have to load essential cookies for legitimate interests pursued by us in delivering our Site's essential functionality to you.
 
@@ -37,7 +37,7 @@ For analytics, we use Google Analytics. To opt out from Google Analytics, you ca
 
 ## Our Customers
 
-Customer who separately use cookies or similar technologies on their website hosted by ZANREAL Labs are independently and solely responsible for management of the data collected through those cookies, compliance with all laws related to usage of these technologies and notifying End Users as required by applicable laws.
+Customers who separately use cookies or similar technologies on their website hosted by ZANREAL Labs are independently and solely responsible for management of the data collected through those cookies, compliance with all laws related to usage of these technologies and notifying End Users as required by applicable laws.
 
 ## Changes to this Cookie Policy
 
