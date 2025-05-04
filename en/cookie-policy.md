@@ -46,3 +46,7 @@ We may update this Cookie Policy from time to time, at our sole discretion. If s
 ## Contact Information
 
 If you have any questions or concerns about this Cookie Policy, please email us at [privacy@zanreal.com](mailto:privacy@zanreal.com).
+
+## Previous Versions
+
+The previous versions of our Privacy Policies and other documents can be seen at [GitHub](https://github.com/zanreal-labs/legal)
