@@ -95,3 +95,7 @@ If you have any questions about this Policy, please reach out to [privacy@zanrea
 ## Footnotes
 
 1: “High risk” refers to an AI system that is used as a safety component of a product or an AI product that is covered by the EU AI Act. A list of areas where AI systems may be deemed “high risk” can be found [here](https://artificialintelligenceact.eu/annex/3/).
+
+## Previous Versions
+
+The previous versions of our Policies and other documents can be seen at [GitHub](https://github.com/zanreal-labs/legal)

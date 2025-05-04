@@ -49,4 +49,4 @@ If you have any questions or concerns about this Cookie Policy, please email us 
 
 ## Previous Versions
 
-The previous versions of our Privacy Policies and other documents can be seen at [GitHub](https://github.com/zanreal-labs/legal)
+The previous versions of our Policies and other documents can be seen at [GitHub](https://github.com/zanreal-labs/legal)

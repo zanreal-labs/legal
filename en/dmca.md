@@ -73,3 +73,7 @@ Obywatelska 1/18
 Poland
 
 [dmca@zanreal.com](mailto:dmca@zanreal.com)
+
+## Previous Versions
+
+The previous versions of our Policies and other documents can be seen at [GitHub](https://github.com/zanreal-labs/legal)
