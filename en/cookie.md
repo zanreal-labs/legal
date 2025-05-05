@@ -27,6 +27,31 @@ We use both 1st party cookies (which are set by us) and 3rd party cookies (which
 
 **Performance and Analytics Cookies**: These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our Site. They help us to know which pages are the most and least popular and see how visitors navigate the Site. Performance cookies are used to help us with our analytics, including to compile statistics and analytics about your use of and interaction with the Site, including details about how and where our Site are accessed, how often you visit or use the Site, the date and time of your visits, your actions on the Site, and other similar traffic, usage, and trend data.
 
+## Types of Cookies We Use
+
+We use the following categories of cookies on our website:
+
+| Cookie Category | Purpose | Legal Basis | Consent Required |
+|----------------|---------|-------------|------------------|
+| **Essential** | Necessary for the core functionality of the site, such as page navigation, secure access, and session handling. These cookies are always enabled. | Legitimate interest (Art. 6(1)(f) GDPR) | No |
+| **Functional** | Enable enhanced functionality and personalization. Examples include remembering user preferences or enabling client-side features. | Consent (Art. 6(1)(a) GDPR) | Yes |
+| **Analytics** | Help us understand how users interact with the site by collecting anonymized data. This improves overall performance and usability. | Consent (Art. 6(1)(a) GDPR) | Yes |
+| **Marketing** | Not used. May be used in the future to deliver personalized advertising or track user behavior across websites. | Not applicable | No |
+
+Your preferences are stored securely in your browser (IndexedDB) and in our systems to honor your choices and to comply with legal obligations under the GDPR.
+
+##  Managing Your Preferences
+
+You can adjust your cookie preferences at any time using the cookie consent banner, available via the floating icon or footer link.
+
+In the banner, you may:
+
+- Accept all categories
+- Opt in or out of each category individually
+- Withdraw your consent at any time via the “Withdraw” button
+
+Non-essential cookies will not be set unless you have given explicit consent.
+
 ## Your Choices
 
 You can learn more about cookies by visiting [www.allaboutcookies.org](https://www.allaboutcookies.org/), which includes additional useful information on cookies and how to block cookies using different types of browsers.
