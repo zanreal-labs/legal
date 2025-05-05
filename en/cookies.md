@@ -1,5 +1,5 @@
 ---
-title: Cookie Policy
+title: Cookies Policy
 description: We use cookies and similar technologies. This Cookie Policy explains how we use cookies in connection with the Platform and your related choices.
 ---
 
