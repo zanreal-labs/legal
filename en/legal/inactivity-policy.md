@@ -1,7 +1,7 @@
 ---
 title: Inactivity Policy
 description: ZanReal Labs policy on username squatting, deployment URL squatting, and inactive account management
-categories: [Account Management, Platform Policy, User Accounts, Fair Use, Content Management]
+categories: [account-management, platform-policy, user-accounts, fair-use, content-management]
 ---
 
 ## Username squatting policy

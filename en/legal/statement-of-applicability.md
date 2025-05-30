@@ -2,7 +2,6 @@
 title: Statement of Applicability (SoA)
 description: ZanReal Labs' Statement of Applicability defining the scope of the Information Security Management System and applicable ISO 27001/27002 controls
 categories: [iso27001, iso27002, isms, security-controls, compliance, risk-management, audit]
-tags: [statement-of-applicability, soa, iso27001, iso27002, isms, security-controls, compliance, audit]
 ---
 
 ZanReal Labs ("ZanReal Labs", "we", "us", or "our") has established this Statement of Applicability (SoA) as part of our Information Security Management System (ISMS) to define the scope of our information security controls and their applicability to our business operations.

@@ -2,7 +2,6 @@
 title: Business Continuity and Disaster Recovery Plan
 description: Comprehensive business continuity and disaster recovery procedures to ensure operational resilience and service availability
 categories: [iso27001, iso27002, business-continuity, disaster-recovery, isms, risk-management, cloud, resilience]
-tags: [business-continuity, disaster-recovery, bcdr, iso27001, resilience, cloud-recovery, risk-management, operational-continuity]
 ---
 
 ZanReal Labs ("ZanReal Labs", "we", "us", or "our") has established comprehensive business continuity and disaster recovery procedures to ensure operational resilience and maintain critical business functions during and after disruptive events. This plan supports our commitment to delivering reliable technology services to our customers worldwide.
