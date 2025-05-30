@@ -5,7 +5,7 @@ description: Learn about ZanReal Labs' Data Processing Agreement (DPA) policy.
 
 ### 1. Introduction
 
-This Data Processing Addendum ("**Addendum**") is entered into and is supplemental to, and made pursuant to, the ZanReal Labs Enterprise Services Order Form and Enterprise Terms and Conditions or other agreement executed between ZanReal Labs and Customer for ZanReal Labs' provision of Services (the "**Agreement**") as of the effective date of such Agreement ("**Effective Date**") and is by and between ZANREAL Mateusz Janota, a Polish corporation ("**ZanReal Labs**"), and the Customer that executed the Agreement. This Addendum applies to ZanReal Labs' Processing of Personal Data under the Agreement.
+This Data Processing Addendum ("**Addendum**") is entered into and is supplemental to, and made pursuant to, the ZanReal Labs Services Agreement, Enterprise Services Order Form and Enterprise Terms and Conditions or other agreement executed between ZanReal Labs and Customer for ZanReal Labs' provision of Services (the "**Agreement**") as of the effective date of such Agreement ("**Effective Date**") and is by and between ZANREAL Mateusz Janota, a Polish corporation ("**ZanReal Labs**"), and the Customer that executed the Agreement. This Addendum applies to ZanReal Labs' Processing of Personal Data under the Agreement across all Services including software development, marketing services, remote IT support, SEO optimization, and UI/UX design services.
 
 Customer enters into this Addendum on behalf of itself and, to the extent required under applicable Data Protection Laws and Regulations, in the name and on behalf of its Affiliates to the extent such Affiliates are included and covered under the Agreement with ZanReal Labs. For the purposes of this Addendum only, and except where indicated otherwise, the term "Customer" shall include Customer and Affiliates.
 
@@ -24,7 +24,7 @@ Any terms used in this Addendum and not defined will have the meanings given to 
 7. **"Personal Data"** means "personal data", "personal information", "personally identifiable information" or similar information defined in and governed by Applicable Data Protection Laws.
 8. **"Security Incident"** means any confirmed unauthorized or unlawful breach of security that leads to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of or access to Customer Data Processed by ZanReal Labs and/or its Subprocessors in connection with the provision of Services. Security Incidents do not include unsuccessful attempts or activities that do not compromise the security of Personal Data, including unsuccessful log-in attempts, pings, port scans, denial of service attacks or other network attacks on firewalls or networked systems.
 9. **"Service-Generated Data"** means usage data and metadata that is generated through the use of the Services, including data generated through the use of Support Services. This Addendum applies to Service-Generated Data to the extent Service-Generated Data constitutes Personal Data.
-10. **"Services"** means collectively the PaaS and the Audit and Training Services, each as defined in the Agreement.
+10. **"Services"** means collectively the software development services, marketing services, remote IT support, SEO optimization services, UI/UX design services, Platform as a Service (PaaS), and any Audit and Training Services, each as defined in the Agreement.
 11. **"Subprocessor"** means any third-party authorized by ZanReal Labs to Process Customer Data in assistance with fulfilling its obligations with respect to providing Services under the Agreement or this Addendum.
 
 ### 3. General; Termination
@@ -37,7 +37,7 @@ Any terms used in this Addendum and not defined will have the meanings given to 
 ### 4. Relationship of the Parties
 
 1. **ZanReal Labs as Processor.** The parties acknowledge and agree that with regard to the Processing of Customer Data, Customer acts as a controller (or processor) and ZanReal Labs is a processor. ZanReal Labs will process Customer Data under and in accordance with Customer's instructions (on behalf of the controller) as outlined in Section 6 (Role and Scope of Processing).
-2. **ZanReal Labs as Controller.** To the extent that any Service-Generated Data is considered Personal Data and as to any Contact Data, ZanReal Labs is the controller with respect to such data and will Process such data in accordance with its [Privacy Policy](/legal/privacy).
+2. **ZanReal Labs as Controller.** To the extent that any Service-Generated Data is considered Personal Data and as to any Contact Data, ZanReal Labs is the controller with respect to such data and will Process such data in accordance with its [Privacy Policy](/en/legal/privacy).
 
 ### 5. Compliance with Law
 
@@ -237,7 +237,7 @@ ZanReal Labs has a three-fold approach for ensuring data quality. These measures
 
 Each ZanReal Labs Customer chooses what Customer Data they route through the ZanReal Labs Services and how the Services are configured. As such, ZanReal Labs operates on a shared responsibility model. ZanReal Labs ensures that data quality is maintained from the time a Customer sends Customer Data into the Services and until that Customer Data leaves ZanReal Labs to flow to a downstream destination.
 
-ZanReal Labs has a process that allows individuals to exercise their privacy rights, as described in ZanReal Labs' Privacy Notice available at [Privacy Policy](/legal/privacy).
+ZanReal Labs has a process that allows individuals to exercise their privacy rights, as described in ZanReal Labs' Privacy Notice available at [Privacy Policy](/en/legal/privacy).
 
 ### 15. Measures for ensuring limited data retention
 
@@ -255,7 +255,7 @@ ZanReal Labs has self-service functionality that allows Customers to delete and 
 
 ZanReal Labs specifies in the Addendum that it will provide assistance to such Customer as may reasonably be required to comply with Customer's obligations under Applicable Data Protection Laws to respond to requests from individuals to exercise their rights under Applicable Data Protection Laws (e.g., rights of data access, rectification, erasure, restriction, portability and objection). If ZanReal Labs receives a request from a Data Subject in relation to their Customer Data, ZanReal Labs will advise the Data Subject to submit their request to Customer, and Customer will be responsible for responding to any such request.
 
-ZanReal Labs has a process that allows individuals to exercise their privacy rights, as described in ZanReal Labs' Privacy Notice available at [Privacy Policy](/legal/privacy).
+ZanReal Labs has a process that allows individuals to exercise their privacy rights, as described in ZanReal Labs' Privacy Notice available at [Privacy Policy](/en/legal/privacy).
 
 ### 18. For transfers to [sub]-processors, also describe the specific technical and organisational measures to be taken by the [sub]-processor to be able to provide assistance to the controller and, for transfers from a processor to a [sub]-processor, to the data exporter
 

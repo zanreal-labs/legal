@@ -9,9 +9,11 @@ By using or accessing our Sites and Services in any manner, you accept the pract
 
 ## About ZanReal Labs Products and Services
 
-ZanReal Labs is a cloud-native platform designed for building, deploying, and scaling modern applications. Our event-driven architecture, developer-first tools, and managed infrastructure empower teams to create, integrate, and iterate quickly. With real-time analytics, intelligent event routing, and a global delivery layer, our customers can test and optimize user experiences instantly — at scale and from any location.
+ZanReal Labs is a comprehensive technology service provider offering software development, marketing services, remote IT support, SEO optimization, and UI/UX design solutions. Our full-service approach combines cloud-native platforms for building and deploying modern applications with professional services that help businesses grow their digital presence and optimize their technology infrastructure.
 
-ZanReal Labs provides the tools, workflows, and cloud infrastructure developers need to build, deploy, and run high-performance websites and applications. Our [documentation](/docs) includes relevant privacy-related details about our products and services, including real-time analytics, event gateways, and AI-powered integrations.
+Our software development services include custom application development, web platform creation, and cloud infrastructure solutions. Our marketing services encompass digital marketing campaigns, SEO optimization, and performance analytics. We provide remote IT support to help businesses maintain their technology systems, and our UI/UX design services ensure optimal user experiences across digital touchpoints.
+
+ZanReal Labs provides the tools, workflows, cloud infrastructure, and professional expertise businesses need to build, deploy, scale, and maintain high-performance websites, applications, and digital marketing presence. Our [documentation](/docs) includes relevant privacy-related details about our products and services, including real-time analytics, event gateways, AI-powered integrations, marketing automation, and IT support systems.
 
 ## Applicability
 
@@ -19,14 +21,18 @@ This Privacy Notice ("Notice") explains ZanReal Labs practices regarding the col
 
 1. Visit ZanReal Labs websites, such as: zanreal.com, nemo.zanreal.com and other ZanReal Labs affiliated websites, such as blogs, event registrations, community discussions, forums, and social media platforms (collectively our "Sites");
 
-2. Access or use the products, services, and any related applications offered by ZanReal Labs, engage directly with us, or use third-party partners, products, professional services, or interfaces that employ ZanReal Labs technology, including our web-based platform, (collectively, the "Services") as a Customer or authorized user, including but not limited to:
+2. Access or use the products, services, and any related applications offered by ZanReal Labs, engage directly with us, or use third-party partners, products, professional services, or interfaces that employ ZanReal Labs technology, including our web-based platforms and professional services, (collectively, the "Services") as a Customer or authorized user, including but not limited to:
 
-    1. Host and deploy websites;
-    2. Optimize content and images;
-    3. Develop an integration or template;
-    4. Purchase a domain;
-    5. Analyze website performance, track website traffic and metrics;
-    6. Scan source code for potential code issues;
+    1. Software development services (custom applications, web platforms, cloud solutions);
+    2. Marketing services (digital marketing campaigns, SEO optimization, performance analytics);
+    3. Remote IT support and technical assistance;
+    4. UI/UX design and user experience optimization;
+    5. Host and deploy websites and applications;
+    6. Optimize content, images, and website performance;
+    7. Develop integrations, templates, and custom solutions;
+    8. Purchase domains and manage digital infrastructure;
+    9. Analyze website performance, track traffic, and measure marketing effectiveness;
+    10. Scan source code for potential issues and security vulnerabilities;
 
 3. Interact with us in any way, including registering for, attending, or otherwise partaking in our events, accelerators, learning portals, or webinars (collectively, "Marketing Activities").
 
@@ -34,7 +40,7 @@ This Privacy Notice does not apply to:
 
 - Any information that Customers process to provide their services to End Users. Customers are solely responsible for ensuring compliance with all applicable laws and regulations with respect to their End Users, including notifying their End Users of their personal information collection, use, and disclosure under their own terms of service and privacy policies. If your personal information is contained in Customer Content (defined below) and you have any questions about the specific settings and privacy practices the relevant Customer has made to share your personal information with us, please contact the relevant Customer directly or review their privacy notice.
 - Third-party products, services, businesses, or any software accessible via the Service or that integrates with the Service. If you have any questions about the specific settings and privacy practices of such third parties, please contact the relevant third-party product, service, or business to review its privacy notice.
-- Job applicants. To learn more about our privacy practices related to personal information collected and used for recruiting purposes, please see our [Job Applicant Privacy Notice](/legal/job-applicant-privacy-notice).
+- Job applicants. To learn more about our privacy practices related to personal information collected and used for recruiting purposes, please see our [Job Applicant Privacy Notice](/en/legal/job-applicant-privacy-notice).
 
 ## Information We Collect
 
@@ -50,9 +56,9 @@ We collect the following information directly from you when using our Sites and 
 - **Transactional Information**. We collect payment and other transactional information related to our Services, such as hashed payment card values and billing address.
 - **Domain Registration Information**. We collect registration data when you purchase a domain, such as domain name and registrant contact information. This data may be made publicly available per ICANN policies.
 - **User Content and File Information**. We collect your website information that you upload, post, deliver, or otherwise provide to the Service, such as source code, text, photographs, document, or other files including videos or recordings (collectively, "Customer Content"), Git information, and other files that you provide us.
-- **AI Product Information**. We collect information when you interact with certain features or Services related to our AI products, such as user chat prompts, uploaded images, design or text generations. Please see our [AI Policy](/legal/ai) for more information on the development, deployment, and usage of our AI products and features.
+- **AI Product Information**. We collect information when you interact with certain features or Services related to our AI products, such as user chat prompts, uploaded images, design or text generations. Please see our [AI Policy](/en/legal/ai) for more information on the development, deployment, and usage of our AI products and features.
 - **Marketing Information**. When you engage and interact with our Marketing Activities or one of our sales or customer support representatives we collect information, including through form submissions, surveys, email communications, or phone calls to inquire about ZanReal Labs and our Services, such as the nature of your communication, contact preferences, and any information you choose to provide to us when completing any "free text" boxes.
-- **Image and Audio Information**. We may collect your image or audio recordings. If you contact us by phone or video, we may record those calls. If you attend an event hosted or sponsored by ZanReal Labs, we may capture your image and/or voice in any video, photograph, or audio recording taken at the event. For more information, please see our [Event Terms and Conditions](/legal/event-terms-and-conditions).
+- **Image and Audio Information**. We may collect your image or audio recordings. If you contact us by phone or video, we may record those calls. If you attend an event hosted or sponsored by ZanReal Labs, we may capture your image and/or voice in any video, photograph, or audio recording taken at the event. For more information, please see our [Event Terms and Conditions](/en/legal/event-terms-and-conditions).
 - **Troubleshooting and Support Information**. We collect information about your account preferences or information you provide when you contact us for support, such as the solution you use, the content of chats and other communications with ZanReal Labs, and other details that help us provide support or comply with legal obligations. Support information includes content of a message or attachments that you send to us.
 - **Social Media Information**. Our Sites and Services may use social media features, such as the "X" button and other sharing widgets. ZanReal Labs is not responsible for how these social media features collect, process, and disclose your information so we encourage you to review the social media platforms' privacy policies.
 - **Any Information You Voluntarily Provide to Us**. For example, when you provide feedback on your experience with our Services or join a public discussion forum as part of our Marketing Activities.
@@ -83,7 +89,7 @@ When you use or interact with our Sites and Services, we automatically collect o
 - **Location Information**. We collect Customers' and End Users' city and country based on IP address. We do not identify precise location.
 - **Telemetry Information**. We collect anonymized statistical and telemetry information as well as aggregated, de-identified information about how you use our Sites and Services.
 - **API Information**. We collect functional data and customer-initiated events (i.e., authentication token, database URL, etc.) from Third-Party Services that connect or integrate with ZanReal Labs Services.
-- **Cookies**. We collect information from your browser by using cookies (which may use a cookie ID) and similar tracking technologies, depending on your settings or preferences in connection with our Sites, Marketing Activities, and Services. Where required by applicable law, we obtain your consent for the use of cookies. You may choose to delete or not accept our cookies as described in our [Cookie Notice](/legal/cookies).
+- **Cookies**. We collect information from your browser by using cookies (which may use a cookie ID) and similar tracking technologies, depending on your settings or preferences in connection with our Sites, Marketing Activities, and Services. Where required by applicable law, we obtain your consent for the use of cookies. You may choose to delete or not accept our cookies as described in our [Cookie Notice](/en/legal/cookies).
 
 From time to time, except as restricted by applicable law or our data processing addendums with our customers, we may combine information that we collect as described above with information we obtain from different sources. For example, we may combine information entered through a ZanReal Labs sales submission with information we receive from a third-party sales intelligence platform to enhance our ability to market our Services to potential Customers. We may combine usage information with feedback to improve our Services or inform Customers about products that may be relevant to them.
 
@@ -185,7 +191,7 @@ You have certain choices and rights available when it comes to how we collect an
 
 - **Opt-out of Marketing Communications**. You may opt-out of receiving marketing communications by clicking the "Unsubscribe" link within each email or by contacting us as provided in [Contact Us](#contact-us). If you are a Customer, you will continue to receive transactional and administrative communications from us regarding our Sites and Services.
 - **Account Preferences**. You may update and correct certain account information at any time by logging into your account or contacting our [support services](/support). If you wish to delete your account, please follow the instructions in our [Documentation](/docs). You may also update certain communication preferences, such as receiving SMS notifications, by logging into your account. We may retain certain information as described in [How We Retain Information](#how-we-retain-your-information).
-- **Managing Cookies and Other Tracking Technologies**. Relevant browser-based cookie controls are described in our [Cookie Notice](/legal/cookies).
+- **Managing Cookies and Other Tracking Technologies**. Relevant browser-based cookie controls are described in our [Cookie Notice](/en/legal/cookies).
 
 Depending on where you are located, you may have certain rights in connection with your personal information that we obtain. These rights vary depending on your jurisdiction. To learn more about your rights, please see [Jurisdiction-Specific Information](#jurisdiction-specific-information).
 

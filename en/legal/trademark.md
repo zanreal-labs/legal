@@ -1,6 +1,6 @@
 ---
 title: Trademark Policy
-description: ZanReal Labs respects the intellectual property rights of others and expects its users to do the same.
+description: ZanReal Labs respects the intellectual property rights of others and expects its users and clients to do the same across all our services including software development, marketing, remote IT support, SEO, and UI/UX design services.
 ---
 
 ## What is a Trademark Policy violation?
@@ -9,14 +9,14 @@ Using a company or business name, logo, or other trademark-protected materials i
 
 ## What is not a Trademark Policy violation?
 
-Using another's trademark in a way that has nothing to do with the product or service for which the trademark was granted is not a trademark policy violation. ZanReal Labs usernames and free deployment URLs are available on a first-come, first-served basis and may not be reserved. A ZanReal Labs account with a username that happens to be the same as a registered trademark is not, by itself, necessarily a violation of our trademark policy.
+Using another's trademark in a way that has nothing to do with the product or service for which the trademark was granted is not a trademark policy violation. ZanReal Labs usernames, service accounts, and deployment URLs are available on a first-come, first-served basis and may not be reserved. A ZanReal Labs account or service configuration with a name that happens to be the same as a registered trademark is not, by itself, necessarily a violation of our trademark policy.
 
 ## How do we respond to reported Trademark Policy violations?
 
-When we receive reports of trademark policy violations from holders of federal or international trademark registrations, we review the account and may take the following actions:
+When we receive reports of trademark policy violations from holders of federal or international trademark registrations, we review the account, service usage, or content and may take the following actions:
 
-- When there is a clear intent to mislead others through the unauthorized use of a trademark, we will suspend the account and notify the account holder.
-- When we determine that an account appears to be confusing users, but is not purposefully passing itself off as the trademarked good or service, we give the account holder an opportunity to clear up any potential confusion. We may also release a username or deployment URL, for the trademark holder's active use.
+- When there is a clear intent to mislead others through the unauthorized use of a trademark in any of our services (including websites, applications, marketing campaigns, or other digital content), we will suspend the account or service access and notify the account holder.
+- When we determine that an account, service usage, or content appears to be confusing users, but is not purposefully passing itself off as the trademarked good or service, we give the account holder an opportunity to clear up any potential confusion. We may also release a username, service configuration, or deployment URL for the trademark holder's active use.
 
 ## How do I report a Trademark Policy violation?
 
@@ -26,9 +26,13 @@ Holders of registered trademarks can report possible trademark policy violations
 
 In order to investigate trademark policy violations, please provide all of the following information:
 
-- Username of the reported account or deployment URL
+- Username of the reported account, service configuration, or deployment URL
 - Your company name
-- Your company's ZanReal Labs team name (if there is one)
+- Your company's ZanReal Labs account name (if there is one)
+- Country of your trademark registration
+- Trademark registration number
+- A description of how the account may cause confusion with your mark
+- Any additional context about how the account relates to your trademark
 - Company website
 - Your trademarked word, symbol, etc.
 - Trademark registration number

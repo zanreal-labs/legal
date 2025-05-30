@@ -1,13 +1,17 @@
 ---
 title: AI Policy
-description: ZanReal Labs develops products and features designed to help developers rapidly create their next website or project.
+description: ZanRWe are committed to providing customers the ability to deploy, scale, and secure their applications and digital presence faster through ZanReal Labs comprehensive technology solutions.
+
+**ZanReal Labs platform services and professional services incorporate AI technologies responsibly to enhance software development, marketing effectiveness, IT support efficiency, SEO optimization, and UI/UX design quality, while maintaining strict data protection and security standards.**
+
+We leverage internal and third party AI technologies to assist with (a) fraud and abuse prevention, (b) customer support services, (c) website search functionality, (d) marketing campaign optimization, (e) SEO performance analysis, (f) automated IT support diagnostics, and (g) UI/UX design recommendations. Customer account information, service-generated information, content of customer help or support requests, and aggregated performance data are used to provide and improve our fraud/abuse detection, customer support, search capabilities, marketing optimization, and service delivery across all our offerings.abs develops products and features designed to help developers rapidly create their next website or project.
 ---
 
-ZanReal Labs develops products and features designed to help developers rapidly create their next website or project. Our innovative tools harness the latest advancements in AI technology to provide a seamless and accelerated development experience. This Policy outlines ZanReal Labs approach to responsibly developing, deploying, and using artificial intelligence ("AI") in our products and services (collectively, "AI Products"). You may select or purchase offerings from third parties through ZanReal Labs AI Integrations, or other similar services, which are not covered by this Policy.
+ZanReal Labs provides comprehensive technology solutions including software development, marketing services, remote IT support, SEO optimization, and UI/UX design services. Our innovative tools and professional services harness the latest advancements in AI technology to provide enhanced development experiences, optimized marketing campaigns, intelligent support systems, and data-driven design solutions. This Policy outlines ZanReal Labs approach to responsibly developing, deploying, and using artificial intelligence ("AI") in our products and services (collectively, "AI Products"). You may select or purchase offerings from third parties through ZanReal Labs AI Integrations, or other similar services, which are not covered by this Policy.
 
 ## ZanReal Labs AI Products and Your Data
 
-ZanReal Labs AI Products consist of tools that help users generate code and user interfaces, improve their technical skills, and build, debug, and ship web applications, including through a generative chat assistant. These AI Products enhance user productivity and improve the development experience from the initial stages of project conception to the final stages of deployment.
+ZanReal Labs AI Products consist of tools and services that help users generate code and user interfaces, optimize marketing campaigns, improve technical skills, enhance SEO performance, streamline IT support processes, and build, debug, and ship web applications, including through generative chat assistants and automated optimization systems. These AI Products enhance user productivity and improve experiences across software development, marketing effectiveness, IT operations, and design workflows from the initial stages of project conception to the final stages of deployment and optimization.
 
 We take our responsibility seriously to protect user data and be transparent about how such data is used. User input and prompt content, queries, ratings, and/or other interactions with user generations and other output may be used by ZanReal Labs (and as applicable, our Third-Party Service Providers' models) to generate outputs. Such content may also be used by ZanReal Labs (but not by third parties') models and learning systems to improve our AI Products and provide more accurate and relevant recommendations to our users. Users can opt out of training our AI Products by purchasing the appropriate subscription. ZanReal Labs does not use customer source code or content hosted on ZanReal Labs platform services to train, improve, or fine tune any of the models used in ZanReal Labs AI Products.
 
@@ -32,7 +36,7 @@ ZanReal Labs AI Products are intended to provide tailored responses to users' pr
 - Making inferences about personal characteristics of a real person based on biometric data;
 - Any other use that would violate ZanReal Labs standard published policies, guidelines, codes of conduct (i.e., community), and/or any other contract you have with ZanReal Labs.
 
-If you have any questions around acceptable use, wish to report misuse of ZanReal Labs AI Products, or discover that an output is inaccurate or harmful, please submit a report at [zanreal.com/abuse](/abuse). To report suspected copyright infringement, please refer to our [DMCA Policy](/legal/dmca).
+If you have any questions around acceptable use, wish to report misuse of ZanReal Labs AI Products, or discover that an output is inaccurate or harmful, please submit a report at [zanreal.com/abuse](/abuse). To report suspected copyright infringement, please refer to our [DMCA Policy](/en/legal/dmca).
 
 ## AI Usage at ZanReal Labs
 
@@ -83,7 +87,7 @@ We leverage various third-party providers to enhance our services, and will cont
 
 **ZanReal Labs Core Products**
 
-- [Markprompt](https://markprompt.com/legal/terms) (customer support services)
+- [Markprompt](https://markprompt.com/en/legal/terms) (customer support services)
 - [Sift](https://sift.com/legal-and-compliance) (fraud and abuse prevention)
 
 ## Compliance
