@@ -224,3 +224,15 @@ You have the right to opt-out and not be bound by the arbitration provisions set
 ## 20. Previews
 
 ZanReal Labs may elect to provide certain Previews from time to time. Previews are provided "AS-IS", "WITH ALL FAULTS", and "AS AVAILABLE". ZanReal Labs' warranties, indemnities and SLA terms do not apply to Previews and Support Services are not provided for Previews. ZanReal Labs may change, discontinue or terminate your use of Previews at any time without notice. "Previews" means Services, releases, features, or functionality provided for preview, pre-release, evaluation, demonstration, beta, or similar uses and purposes.
+
+## Schedule I
+
+Your use of the following Services are subject to the additional terms set forth below, as applicable:
+
+### 1. Storage Products
+
+If you use the ZanReal Labs Storage Products, including but not limited to integrations with Supabase, Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure, Cloudflare, and Upstash, only the following sections of this Agreement will apply as between you and ZanReal Labs and references to the Services in such sections will be deemed to also refer to the Storage Products: Sections 8 (Data Protection), 15 (Term and Termination), 16 (Disclaimer), 17 (Limitation of Liability), 18 (Miscellaneous), and 19 (Governing Law; Disputes; Arbitration). You agree that your use of and license to use such Storage Products may be governed by the additional terms of service of the respective third-party storage providers (Supabase, AWS, GCP, Azure, Cloudflare, Upstash) as applicable.
+
+### 2. DORA
+
+To the extent that your use of the Services is subject to the Digital Operational Resilience Act, you agree to the terms of the [DORA Addendum](/en/legal/dora-addendum.md).
