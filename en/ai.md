@@ -32,7 +32,7 @@ ZanReal Labs AI Products are intended to provide tailored responses to users' pr
 - Making inferences about personal characteristics of a real person based on biometric data;
 - Any other use that would violate ZanReal Labs standard published policies, guidelines, codes of conduct (i.e., community), and/or any other contract you have with ZanReal Labs.
 
-If you have any questions around acceptable use, wish to report misuse of ZanReal Labs AI Products, or discover that an output is inaccurate or harmful, please submit a report at [zanreal.com/abuse](https://zanreal.com/abuse). To report suspected copyright infringement, please refer to our [DMCA Policy](/legal/dmca).
+If you have any questions around acceptable use, wish to report misuse of ZanReal Labs AI Products, or discover that an output is inaccurate or harmful, please submit a report at [zanreal.com/abuse](/abuse). To report suspected copyright infringement, please refer to our [DMCA Policy](/legal/dmca).
 
 ## AI Usage at ZanReal Labs
 

@@ -51,12 +51,12 @@ Each party will comply with its obligations under Applicable Data Protection Law
 ### 7. Subprocessing
 
 1. Customer specifically authorizes ZanReal Labs to use its Affiliates as Subprocessors, and generally authorizes ZanReal Labs to engage Subprocessors to Process Customer Data. In such instances, ZanReal Labs: (i) will enter into a written agreement with each Subprocessor, imposing data protection obligations substantially similar to those set out in this Addendum to the extent applicable to the nature of the services provided by such Subprocessor; and (ii) remains liable for compliance with the obligations of this Addendum and for any acts or omissions of the Subprocessor that cause ZanReal Labs to breach any of its obligations under this Addendum.
-2. A list of ZanReal Labs' Subprocessors, including their functions and locations, is available at [zanreal.com/security](https://zanreal.com/security), and may be updated by ZanReal Labs from time to time in accordance with this Addendum.
+2. A list of ZanReal Labs' Subprocessors, including their functions and locations, is available at [zanreal.com/security](/security), and may be updated by ZanReal Labs from time to time in accordance with this Addendum.
 3. Customer must email [privacy@zanreal.com](mailto:privacy@zanreal.com) or other method as communicated by ZanReal Labs to Customer in the future, to subscribe to notice of new Subprocessors that will be engaged. ZanReal Labs will notify Customer by updating the list of Subprocessors and, if Customer has subscribed to notices as set forth in the preceding sentence, via email. If, within five (5) calendar days after such notice, Customer notifies ZanReal Labs in writing that Customer objects to ZanReal Labs' appointment of a new Subprocessor based on reasonable data protection concerns, the parties will discuss such concerns in good faith and whether they can be resolved. If the parties are not able to mutually agree to a resolution of such concerns, Customer, as its sole and exclusive remedy, may terminate the Agreement for convenience with no refunds and Customer will remain liable to pay any committed fees in an order form, order, statement of work or other similar ordering document.
 
 ### 8. Security
 
-1. **Security Measures.** ZanReal Labs will implement and maintain technical and organizational security measures designed to protect Customer Data from Security Incidents and to preserve the security and confidentiality of the Customer Data, in accordance with ZanReal Labs' security standards referenced in the Agreement ("**Security Measures**"). For more information on ZanReal Labs' security measures please see our Security FAQs at <https://zanreal.com/security>.
+1. **Security Measures.** ZanReal Labs will implement and maintain technical and organizational security measures designed to protect Customer Data from Security Incidents and to preserve the security and confidentiality of the Customer Data, in accordance with ZanReal Labs' security standards referenced in the Agreement ("**Security Measures**"). For more information on ZanReal Labs' security measures please see our Security FAQs at </security>.
 2. **Customer Responsibility.**
     1. Customer is responsible for reviewing the information made available by ZanReal Labs relating to data security and making an independent determination as to whether the Services meet Customer's requirements and legal obligations under Applicable Data Protection Laws. Customer acknowledges that the Security Measures provide a level of security appropriate to the risk in respect of the Customer Data and that they may be updated from time to time upon reasonable notice to Customer to reflect process improvements or changing practices (but the modifications will not materially decrease ZanReal Labs' obligations as compared to those reflected in such terms as of the Effective Date).
     2. Customer agrees that, without limitation of ZanReal Labs' obligations under this Section 8, Customer is solely responsible for its use of the Services, including (a) making appropriate use of the Services to ensure a level of security appropriate to the risk in respect of the Customer Data; (b) securing the account authentication credentials, systems and devices Customer uses to access the Services; (c) securing Customer's systems and devices that it uses with the Services; and (d) maintaining its own backups of Customer Data.
@@ -203,7 +203,7 @@ Detailed information about GCP security is available at:
 
 ZanReal Labs monitors access to applications, tools, and resources that process or store Customer Data, including cloud services. Monitoring of security logs is centralized by the security team. Log activities are investigated when necessary and escalated appropriately.
 
-User activity metrics are available to Customers within the Services. For further information, visit [https://zanreal.com/settings/activity](https://zanreal.com/settings/activity).
+User activity metrics are available to Customers within the Services. For further information, visit [/settings/activity](/settings/activity).
 
 ### 10. Measures for ensuring systems configuration, including default configuration
 
@@ -245,7 +245,7 @@ ZanReal Labs Customers unilaterally determine what Customer Data they route thro
 
 ### 16. Measures for ensuring accountability
 
-ZanReal Labs has adopted measures for ensuring accountability, such as implementing data protection policies across the business, publishing ZanReal Labs' Information Security Policy (available at [https://zanreal.com/security](https://zanreal.com/security)), maintaining documentation of processing activities, and recording and reporting Security Incidents involving Personal Data. ZanReal Labs conducts regular third-party audits to ensure compliance with our privacy and security standards.
+ZanReal Labs has adopted measures for ensuring accountability, such as implementing data protection policies across the business, publishing ZanReal Labs' Information Security Policy (available at [/security](/security)), maintaining documentation of processing activities, and recording and reporting Security Incidents involving Personal Data. ZanReal Labs conducts regular third-party audits to ensure compliance with our privacy and security standards.
 
 ### 17. Measures for allowing data portability and ensuring erasure
 
@@ -348,7 +348,7 @@ UK International Data Transfer Addendum
 | **Annex 1A: List of Parties** | As set out in Schedule 1 |
 | **Annex 1B: Description of Transfer** | As set out in Schedule 1 |
 | **Annex II: Technical and organisational measures** | As set out in Schedule 2 |
-| **Annex III: List of Sub processors** | As set out at [zanreal.com/security](https://zanreal.com/security) |
+| **Annex III: List of Sub processors** | As set out at [zanreal.com/security](/security) |
 
 #### Table 4: Ending this Addendum when the Approved Addendum Changes
 
