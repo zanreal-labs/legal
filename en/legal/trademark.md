@@ -1,6 +1,8 @@
 ---
 title: Trademark Policy
 description: ZanReal Labs respects the intellectual property rights of others and expects its users and clients to do the same across all our services including software development, marketing, remote IT support, SEO, and UI/UX design services.
+categories: [trademark, intellectual-property, legal, brand-protection, content-moderation, compliance]
+tags: [trademark-policy, intellectual-property, brand-protection, trademark-infringement, content-moderation]
 ---
 
 ## What is a Trademark Policy violation?

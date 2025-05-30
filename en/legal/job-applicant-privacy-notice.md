@@ -1,6 +1,7 @@
 ---
 title: Job Applicant Privacy Notice
 description: Privacy notice for job applicants at ZanReal Labs
+categories: [privacy, gdpr, hr, employment, data-protection, recruitment, ccpa]
 ---
 
 Thank you for your interest in joining ZanReal Labs, including our subsidiaries and affiliates, ("ZanReal Labs," "we," "our," or "us"). This Job Applicant Privacy Notice ("Notice") explains how we collect, use, and share personal information when you apply for a job with ZanReal Labs. Capitalized terms not defined in this Notice are defined in our [Privacy Notice](/en/legal/privacy).

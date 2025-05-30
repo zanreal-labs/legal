@@ -1,6 +1,8 @@
 ---
 title: Risk Assessment Methodology
 description: ZanReal Labs' systematic approach to identifying, analyzing, and evaluating information security risks across all business operations and technology assets.
+categories: [iso27001, iso27002, risk-management, security, isms, compliance, threat-assessment, vulnerability-management]
+tags: [risk-assessment, iso27001, security, isms, threat-analysis, vulnerability-assessment, risk-management, compliance]
 ---
 
 ZanReal Labs ("ZanReal Labs", "we", "us", or "our") implements a comprehensive risk assessment methodology to systematically identify, analyze, and evaluate information security risks. This methodology forms the foundation of our Information Security Management System (ISMS) and ensures consistent, repeatable risk assessment processes across all business operations.

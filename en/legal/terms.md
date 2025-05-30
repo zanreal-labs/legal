@@ -1,6 +1,7 @@
 ---
 title: Terms of Service
 description: ZanReal Labs provides access to its Services subject to the following Terms of Service. By using or accessing the Services, you agree to these terms.
+categories: [legal, terms-of-service, compliance, liability, privacy, data-protection, intellectual-property]
 ---
 
 Subject to these Terms of Service (this "Agreement"), ZanReal Labs ("ZanReal Labs", "we", "us" and/or "our") provides access to ZanReal Labs' Services. "Services" means, collectively, any products or services made available by ZanReal Labs or its affiliates, including software development services, marketing services, remote IT support, SEO optimization, UI/UX design services, cloud platforms, and related professional services; provided that, your use of certain Services requires acceptance of additional terms as may be specified separately; and provided further, that, for the avoidance of doubt, any software that we provide exclusively under open source licenses are not covered by this Agreement. By using or accessing the Services, you acknowledge that you have read, understand, and agree to be bound by this Agreement.

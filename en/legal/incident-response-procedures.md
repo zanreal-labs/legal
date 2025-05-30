@@ -1,6 +1,8 @@
 ---
 title: Security Incident Response Procedures
 description: Detailed procedures for detecting, responding to, and recovering from information security incidents
+categories: [iso27001, iso27002, incident-response, security, isms, gdpr, privacy, breach-notification, crisis-management]
+tags: [incident-response, security-incidents, iso27001, breach-response, crisis-management, gdpr, privacy-breach, forensics]
 ---
 
 ZanReal Labs ("ZanReal Labs", "we", "us", or "our") has established comprehensive incident response procedures to ensure rapid detection, containment, investigation, and recovery from information security incidents. These procedures support our commitment to maintaining the confidentiality, integrity, and availability of all information assets.

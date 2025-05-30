@@ -1,10 +1,7 @@
 ---
 title: AI Policy
-description: ZanRWe are committed to providing customers the ability to deploy, scale, and secure their applications and digital presence faster through ZanReal Labs comprehensive technology solutions.
-
-**ZanReal Labs platform services and professional services incorporate AI technologies responsibly to enhance software development, marketing effectiveness, IT support efficiency, SEO optimization, and UI/UX design quality, while maintaining strict data protection and security standards.**
-
-We leverage internal and third party AI technologies to assist with (a) fraud and abuse prevention, (b) customer support services, (c) website search functionality, (d) marketing campaign optimization, (e) SEO performance analysis, (f) automated IT support diagnostics, and (g) UI/UX design recommendations. Customer account information, service-generated information, content of customer help or support requests, and aggregated performance data are used to provide and improve our fraud/abuse detection, customer support, search capabilities, marketing optimization, and service delivery across all our offerings.abs develops products and features designed to help developers rapidly create their next website or project.
+description: ZanReal Labs develops products and features designed to help developers rapidly create their next website or project.
+categories: [ai, machine-learning, gdpr, privacy, data-protection, ethics, transparency, security, compliance]
 ---
 
 ZanReal Labs provides comprehensive technology solutions including software development, marketing services, remote IT support, SEO optimization, and UI/UX design services. Our innovative tools and professional services harness the latest advancements in AI technology to provide enhanced development experiences, optimized marketing campaigns, intelligent support systems, and data-driven design solutions. This Policy outlines ZanReal Labs approach to responsibly developing, deploying, and using artificial intelligence ("AI") in our products and services (collectively, "AI Products"). You may select or purchase offerings from third parties through ZanReal Labs AI Integrations, or other similar services, which are not covered by this Policy.

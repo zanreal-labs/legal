@@ -1,6 +1,7 @@
 ---
 title: Data Processing Agreement
 description: Learn about ZanReal Labs' Data Processing Agreement (DPA) policy.
+categories: [gdpr, data-protection, privacy, dpa, ccpa, processing-agreement, compliance, security]
 ---
 
 ### 1. Introduction

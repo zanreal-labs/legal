@@ -1,6 +1,7 @@
 ---
 title: DORA Addendum
 description: Digital Operational Resilience Act compliance addendum for financial sector entities subject to DORA regulations
+categories: [dora, financial-services, compliance, operational-resilience, eu-regulation, risk-management, third-party-risk]
 ---
 
 ## 1. Introduction

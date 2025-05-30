@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
 description: At ZanReal Labs, we respect customers' need for privacy. We offer our Sites and Services (defined below) to customers and users either directly or via a reseller.
+categories: [gdpr, privacy, ccpa, pipeda, data-protection, cookies, marketing, analytics, ai]
 ---
 
 At ZanReal Labs, we respect customers' need for privacy. We offer our Sites and Services (defined below) to customers and users either directly or via a reseller. Where we refer to our "Customers" in this Privacy Notice, we refer to customers that have entered into an agreement with us or our resellers to use the Services (each, an "Agreement"). Each Customer's respective website users or applicable visitors are referred to as their "End Users."

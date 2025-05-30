@@ -1,6 +1,7 @@
 ---
 title: DMCA Policy
 description: Learn about ZanReal Labs' Digital Millennium Copyright Act (DMCA) policy.
+categories: [dmca, copyright, intellectual-property, legal, compliance, content-moderation]
 ---
 
 ## How do I report a DMCA violation?

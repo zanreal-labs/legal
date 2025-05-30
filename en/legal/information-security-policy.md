@@ -1,6 +1,7 @@
 ---
 title: Information Security Policy
 description: ZanReal Labs' comprehensive Information Security Policy establishing the framework for protecting information assets and ensuring confidentiality, integrity, and availability of all systems and data.
+categories: [iso27001, iso27002, security, isms, compliance, privacy, cloud, risk-management, incident-response, business-continuity, access-control]
 ---
 
 ZanReal Labs ("ZanReal Labs", "we", "us", or "our") is committed to ensuring the confidentiality, integrity, and availability of all information assets and systems. This Information Security Policy establishes the framework for protecting our information assets, customer data, and technology infrastructure against security threats, unauthorized access, and data breaches.

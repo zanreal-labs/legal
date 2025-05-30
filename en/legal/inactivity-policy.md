@@ -1,6 +1,7 @@
 ---
 title: Inactivity Policy
 description: ZanReal Labs policy on username squatting, deployment URL squatting, and inactive account management
+categories: [Account Management, Platform Policy, User Accounts, Fair Use, Content Management]
 ---
 
 ## Username squatting policy
@@ -11,7 +12,7 @@ Attempts to sell, buy, or solicit other forms of payment in exchange for account
 
 ## Deployment URL squatting policy
 
-We prohibit squatting of free *.zanreal.app domain names, and these domain names may not be inactively held for future use. Inactive registrations may be renamed or removed by our staff at their discretion. Keep in mind that not all activity on ZanReal Labs is publicly visible.
+We prohibit squatting of free *.rscl.it domain names, and these domain names may not be inactively held for future use. Inactive registrations may be renamed or removed by our staff at their discretion. Keep in mind that not all activity on ZanReal Labs is publicly visible.
 
 Attempts to sell, buy, or solicit other forms of payment in exchange for deployment URLs are prohibited and may result in permanent account suspension.
 

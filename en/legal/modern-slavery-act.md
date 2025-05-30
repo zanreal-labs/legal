@@ -1,6 +1,7 @@
 ---
 title: Modern Slavery Act Statement
 description: ZanReal Labs' commitment to combating modern slavery and human trafficking in our business operations and supply chains
+categories: [modern-slavery-act, esg, ethics, supply-chain, human-rights, compliance, social-responsibility]
 ---
 
 ZanReal Labs ("ZanReal Labs") is committed to conducting our business ethically and responsibly and improving our practices to combat modern slavery in our business by taking steps, to the extent we are able, to ensure that our supply chains are free from slavery and human trafficking. We recognize the importance of the UK Modern Slavery Act of 2015 and the role we play in ensuring that slavery and human trafficking are not present in our business operations and supply chains.

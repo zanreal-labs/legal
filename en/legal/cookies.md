@@ -1,6 +1,7 @@
 ---
 title: Cookies Policy
 description: We use cookies and similar technologies. This Cookie Policy explains how we use cookies in connection with our Services and your related choices.
+categories: [cookies, privacy, gdpr, tracking, analytics, marketing, consent, eprivacy]
 ---
 
 We use cookies and similar technologies. This Cookie Policy explains how we use cookies in connection with our Services and your related choices.

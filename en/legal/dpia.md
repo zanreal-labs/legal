@@ -1,10 +1,7 @@
 ---
 title: Data Protection Impact Assessment (DPIA)
 description: Comprehensive Data Protection Impact Assessment for ZanReal Labs services and data processing activities
----
-
-**ZanReal Labs - ZANREAL Mateusz Janota**
-
+categories: [gdpr, privacy, iso27001, iso27002, risk-management, ai, cloud, security, compliance, data-protection]
 ---
 
 ## 1. Executive Summary
