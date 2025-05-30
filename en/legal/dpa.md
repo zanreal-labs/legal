@@ -375,10 +375,6 @@ UK International Data Transfer Addendum
 
 ---
 
-**Last updated:** December 2024
-
-This Data Processing Agreement demonstrates ZanReal Labs' commitment to protecting personal data and ensuring compliance with applicable data protection laws worldwide.
-
 ## Previous Versions
 
 The previous versions of our Policies and other documents can be seen at [GitHub](https://github.com/zanreal-labs/legal)
