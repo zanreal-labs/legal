@@ -13,13 +13,13 @@ ZanReal Labs is a comprehensive technology service provider offering software de
 
 Our software development services include custom application development, web platform creation, and cloud infrastructure solutions. Our marketing services encompass digital marketing campaigns, SEO optimization, and performance analytics. We provide remote IT support to help businesses maintain their technology systems, and our UI/UX design services ensure optimal user experiences across digital touchpoints.
 
-ZanReal Labs provides the tools, workflows, cloud infrastructure, and professional expertise businesses need to build, deploy, scale, and maintain high-performance websites, applications, and digital marketing presence. Our [documentation](/docs) includes relevant privacy-related details about our products and services, including real-time analytics, event gateways, AI-powered integrations, marketing automation, and IT support systems.
+ZanReal Labs provides the tools, workflows, cloud infrastructure, and professional expertise businesses need to build, deploy, scale, and maintain high-performance websites, applications, and digital marketing presence. Our [documentation](/docs) includes relevant privacy-related details about our products and services, including real-time analytics, AI-powered integrations, marketing automation, and IT support systems.
 
 ## Applicability
 
 This Privacy Notice ("Notice") explains ZanReal Labs practices regarding the collection, use, disclosure, and processing of your information; the rights and choices you may have with respect to such information; how you may contact us; and how we protect your information when you:
 
-1. Visit ZanReal Labs websites, such as: zanreal.com, nemo.zanreal.com and other ZanReal Labs affiliated websites, such as blogs, event registrations, community discussions, forums, and social media platforms (collectively our "Sites");
+1. Visit ZanReal Labs websites, such as: zanreal.com, nemo.zanreal.com and other ZanReal Labs affiliated websites, such as blogs, community discussions, forums, and social media platforms (collectively our "Sites");
 
 2. Access or use the products, services, and any related applications offered by ZanReal Labs, engage directly with us, or use third-party partners, products, professional services, or interfaces that employ ZanReal Labs technology, including our web-based platforms and professional services, (collectively, the "Services") as a Customer or authorized user, including but not limited to:
 
@@ -34,7 +34,7 @@ This Privacy Notice ("Notice") explains ZanReal Labs practices regarding the col
     9. Analyze website performance, track traffic, and measure marketing effectiveness;
     10. Scan source code for potential issues and security vulnerabilities;
 
-3. Interact with us in any way, including registering for, attending, or otherwise partaking in our events, accelerators, learning portals, or webinars (collectively, "Marketing Activities").
+3. Interact with us in any way, including learning portals and other marketing communications (collectively, "Marketing Activities").
 
 This Privacy Notice does not apply to:
 
@@ -58,7 +58,7 @@ We collect the following information directly from you when using our Sites and 
 - **User Content and File Information**. We collect your website information that you upload, post, deliver, or otherwise provide to the Service, such as source code, text, photographs, document, or other files including videos or recordings (collectively, "Customer Content"), Git information, and other files that you provide us.
 - **AI Product Information**. We collect information when you interact with certain features or Services related to our AI products, such as user chat prompts, uploaded images, design or text generations. Please see our [AI Policy](/en/legal/ai) for more information on the development, deployment, and usage of our AI products and features.
 - **Marketing Information**. When you engage and interact with our Marketing Activities or one of our sales or customer support representatives we collect information, including through form submissions, surveys, email communications, or phone calls to inquire about ZanReal Labs and our Services, such as the nature of your communication, contact preferences, and any information you choose to provide to us when completing any "free text" boxes.
-- **Image and Audio Information**. We may collect your image or audio recordings. If you contact us by phone or video, we may record those calls. If you attend an event hosted or sponsored by ZanReal Labs, we may capture your image and/or voice in any video, photograph, or audio recording taken at the event. For more information, please see our [Event Terms and Conditions](/en/legal/event-terms-and-conditions).
+- **Image and Audio Information**. We may collect your image or audio recordings. If you contact us by phone or video, we may record those calls for quality assurance and training purposes.
 - **Troubleshooting and Support Information**. We collect information about your account preferences or information you provide when you contact us for support, such as the solution you use, the content of chats and other communications with ZanReal Labs, and other details that help us provide support or comply with legal obligations. Support information includes content of a message or attachments that you send to us.
 - **Social Media Information**. Our Sites and Services may use social media features, such as the "X" button and other sharing widgets. ZanReal Labs is not responsible for how these social media features collect, process, and disclose your information so we encourage you to review the social media platforms' privacy policies.
 - **Any Information You Voluntarily Provide to Us**. For example, when you provide feedback on your experience with our Services or join a public discussion forum as part of our Marketing Activities.
@@ -103,7 +103,7 @@ We use your information as described in this Notice to provide our Sites and Ser
 
 - **Support**: To provide Customer assistance and technical support, such as responding to your requests and inquiries. ZanReal Labs personnel are prohibited from viewing Customer Content, except when instructed by you, as necessary to resolve Customer support issues, or for security, Services integrity, or legal purposes.
 
-- **Communication**: To send you marketing and administrative messages, such as technical or legal notices, invoices, product updates, surveys, security alerts, marketing promotions, newsletters, training, event reminders, and/or provide other news or information about ZanReal Labs and/or our partners. Please see Your Privacy Choices and Rights to learn how to manage your communication preferences.
+- **Communication**: To send you marketing and administrative messages, such as technical or legal notices, invoices, product updates, surveys, security alerts, marketing promotions, newsletters, training, and/or provide other news or information about ZanReal Labs and/or our partners. Please see Your Privacy Choices and Rights to learn how to manage your communication preferences.
 
 - **Account Administration**: To create and manage your account, complete transactions, and send billing, tax and other administrative information, such as purchase confirmations, receipts, and invoices.
 
@@ -131,7 +131,7 @@ We disclose information as necessary to provide the Sites and Services, as requi
 
 - **ZanReal Labs Customers**. We disclose information with our Customers when using our Services, in accordance with our contractual obligations. For example, if you join a ZanReal Labs Customer team within our Services, certain information about you including your name, contact information, and profile image may become accessible to that Customer and other individuals with whom the Customer shares access. If you are a Customer managing authorized users within our Services, such as an account administrator or team owner, we may share authorized user information for the purpose of facilitating Services-related requests.
 
-- **ZanReal Labs Partners and Event Sponsors**. We engage with several partners, such as third-party advertising networks, integration service partners, event sponsors, and resellers. We may share information with them to provide and support our Services, and to conduct our Marketing Activities.
+- **ZanReal Labs Partners**. We engage with several partners, such as third-party advertising networks, integration service partners, and resellers. We may share information with them to provide and support our Services, and to conduct our Marketing Activities.
 
 - **Third-Party Service Providers**. We disclose information with third-party service providers that require access to information to support our operations and delivery of our Sites and Services. The third parties that ZanReal Labs discloses your information with may include:
 
