@@ -33,6 +33,7 @@ Our risk assessment approach is based on the following principles:
 Each risk assessment evaluates three core components:
 
 #### Assets
+
 - **Information Assets**: Data, databases, documentation, intellectual property
 - **Technology Assets**: Hardware, software, systems, networks, cloud services
 - **Physical Assets**: Facilities, equipment, mobile devices
@@ -40,6 +41,7 @@ Each risk assessment evaluates three core components:
 - **Intangible Assets**: Brand reputation, customer trust, business relationships
 
 #### Threats
+
 - **Malicious Threats**: Cybercriminals, hackers, malicious insiders, nation-state actors
 - **Accidental Threats**: Human error, system failures, misconfigurations
 - **Natural Threats**: Natural disasters, environmental factors, power outages
@@ -47,6 +49,7 @@ Each risk assessment evaluates three core components:
 - **Supplier Threats**: Third-party service disruptions, vendor security incidents
 
 #### Vulnerabilities
+
 - **Technical Vulnerabilities**: Software flaws, misconfigurations, weak encryption
 - **Physical Vulnerabilities**: Inadequate physical security, environmental risks
 - **Procedural Vulnerabilities**: Inadequate processes, missing controls, poor documentation
@@ -58,31 +61,37 @@ Each risk assessment evaluates three core components:
 ### Phase 1: Asset Identification and Valuation
 
 #### Asset Discovery
+
 - Conduct comprehensive asset inventory using automated discovery tools
 - Interview business process owners and system administrators
 - Review network diagrams, system documentation, and architectural designs
 - Identify cloud services, SaaS applications, and third-party dependencies
 
 #### Asset Classification
+
 Assets are classified using the following criteria:
 
 **Confidentiality Requirements**:
+
 - **Public (C0)**: No confidentiality requirements
 - **Internal (C1)**: Limited internal distribution
 - **Confidential (C2)**: Restricted access required
 - **Highly Confidential (C3)**: Strict access controls mandatory
 
 **Integrity Requirements**:
+
 - **Basic (I1)**: Minor impact if corrupted
 - **Important (I2)**: Moderate impact if corrupted
 - **Critical (I3)**: Severe impact if corrupted
 
 **Availability Requirements**:
+
 - **Standard (A1)**: Standard business hours availability
 - **High (A2)**: Extended hours with minimal downtime
 - **Critical (A3)**: 24/7 availability required
 
 #### Asset Valuation
+
 Each asset is assigned a business value based on:
 
 - **Replacement Cost**: Cost to replace or recreate the asset
@@ -92,6 +101,7 @@ Each asset is assigned a business value based on:
 - **Reputation Impact**: Potential damage to organizational reputation
 
 **Asset Value Scale**:
+
 - **Low (1-2)**: Minimal business impact, easily replaceable
 - **Medium (3-4)**: Moderate business impact, some difficulty replacing
 - **High (5-6)**: Significant business impact, difficult to replace
@@ -101,18 +111,21 @@ Each asset is assigned a business value based on:
 ### Phase 2: Threat Identification and Analysis
 
 #### Threat Source Identification
+
 - **External Threats**: Cybercriminals, hacktivists, nation-state actors, competitors
 - **Internal Threats**: Malicious insiders, negligent employees, contractors
 - **Environmental Threats**: Natural disasters, infrastructure failures, pandemics
 - **Technical Threats**: System failures, software bugs, network outages
 
 #### Threat Intelligence Integration
+
 - Leverage threat intelligence feeds from multiple sources
 - Monitor security advisories and vulnerability databases
 - Analyze industry-specific threat reports and indicators
 - Participate in threat intelligence sharing communities
 
 #### Threat Likelihood Assessment
+
 Threats are evaluated using the following likelihood scale:
 
 - **Very Low (1)**: Highly unlikely to occur (0-5% annually)
@@ -124,6 +137,7 @@ Threats are evaluated using the following likelihood scale:
 ### Phase 3: Vulnerability Assessment
 
 #### Vulnerability Identification Methods
+
 - **Automated Scanning**: Use Nessus Professional and other vulnerability scanners
 - **Manual Testing**: Penetration testing and security assessments
 - **Code Review**: Static and dynamic application security testing
@@ -131,6 +145,7 @@ Threats are evaluated using the following likelihood scale:
 - **Process Review**: Procedural and administrative control assessments
 
 #### Vulnerability Rating
+
 Vulnerabilities are rated using the Common Vulnerability Scoring System (CVSS) v3.1:
 
 - **Critical (9.0-10.0)**: Immediate attention required
@@ -140,6 +155,7 @@ Vulnerabilities are rated using the Common Vulnerability Scoring System (CVSS) v
 - **Informational (0.0)**: No immediate security impact
 
 #### Exploitability Assessment
+
 For each vulnerability, we assess:
 
 - **Attack Vector**: Network, adjacent network, local, physical
@@ -151,9 +167,11 @@ For each vulnerability, we assess:
 ### Phase 4: Risk Calculation and Evaluation
 
 #### Risk Formula
+
 **Risk = Asset Value × Threat Likelihood × Vulnerability Rating**
 
 #### Risk Matrix
+
 Risks are categorized using a 5×5 risk matrix:
 
 | Impact/Likelihood | Very Low (1) | Low (2) | Medium (3) | High (4) | Very High (5) |
@@ -165,6 +183,7 @@ Risks are categorized using a 5×5 risk matrix:
 | **Very Low (1)**  | Very Low     | Very Low| Low        | Low      | Medium        |
 
 #### Risk Scoring Scale
+
 - **Critical (20-25)**: Immediate action required, senior management escalation
 - **High (15-19)**: Urgent attention required, treatment plan within 30 days
 - **Medium (10-14)**: Treatment plan required within 90 days
@@ -174,24 +193,29 @@ Risks are categorized using a 5×5 risk matrix:
 ### Phase 5: Risk Treatment Options
 
 #### Risk Treatment Strategies
+
 For each identified risk, one of the following strategies must be selected:
 
 **Risk Avoidance**:
+
 - Eliminate the risk by discontinuing the risky activity
 - Change business processes to avoid risk exposure
 - Select alternative technologies or approaches
 
 **Risk Mitigation**:
+
 - Implement security controls to reduce likelihood or impact
 - Apply defense-in-depth strategies
 - Enhance monitoring and detection capabilities
 
 **Risk Transfer**:
+
 - Purchase cyber insurance coverage
 - Outsource risky activities to qualified third parties
 - Implement contractual risk transfer mechanisms
 
 **Risk Acceptance**:
+
 - Formally accept residual risk after treatment
 - Document business justification for acceptance
 - Establish monitoring and review procedures
@@ -199,12 +223,14 @@ For each identified risk, one of the following strategies must be selected:
 ## Risk Assessment Frequency
 
 ### Regular Assessments
+
 - **Annual Comprehensive Assessment**: Complete organizational risk assessment
 - **Quarterly Updates**: Review of critical and high risks
 - **Monthly Monitoring**: Ongoing threat and vulnerability monitoring
 - **Ad-hoc Assessments**: Triggered by significant changes or incidents
 
 ### Assessment Triggers
+
 Risk assessments must be conducted when:
 
 - New systems or services are implemented
@@ -218,6 +244,7 @@ Risk assessments must be conducted when:
 ## Risk Assessment Documentation
 
 ### Risk Register
+
 All identified risks must be documented in the organizational risk register including:
 
 - **Risk ID**: Unique risk identifier
@@ -235,6 +262,7 @@ All identified risks must be documented in the organizational risk register incl
 - **Review Date**: Next scheduled risk review
 
 ### Risk Assessment Reports
+
 Each risk assessment produces:
 
 - **Executive Summary**: High-level findings and recommendations
@@ -247,6 +275,7 @@ Each risk assessment produces:
 ## Roles and Responsibilities
 
 ### Risk Assessment Team
+
 - **Risk Manager**: Overall responsibility for risk assessment process
 - **Information Security Team**: Technical risk analysis and assessment
 - **Business Process Owners**: Asset identification and business impact assessment
@@ -254,6 +283,7 @@ Each risk assessment produces:
 - **Legal and Compliance**: Regulatory and legal risk assessment
 
 ### Risk Governance
+
 - **Executive Leadership**: Risk appetite and tolerance decisions
 - **Risk Committee**: Risk assessment oversight and approval
 - **Business Unit Managers**: Risk treatment implementation and monitoring
@@ -262,12 +292,14 @@ Each risk assessment produces:
 ## Quality Assurance
 
 ### Assessment Validation
+
 - **Peer Review**: All risk assessments undergo peer review
 - **Independent Validation**: Annual independent risk assessment review
 - **Accuracy Verification**: Regular validation of risk data and calculations
 - **Consistency Checks**: Ensure consistent application of methodology
 
 ### Continuous Improvement
+
 - **Methodology Updates**: Annual review and update of methodology
 - **Lessons Learned**: Incorporate feedback from risk incidents
 - **Industry Benchmarking**: Compare with industry best practices
@@ -276,6 +308,7 @@ Each risk assessment produces:
 ## Training and Competence
 
 ### Risk Assessment Training
+
 All risk assessment team members must complete:
 
 - Initial risk assessment methodology training
@@ -284,6 +317,7 @@ All risk assessment team members must complete:
 - Industry threat intelligence briefings
 
 ### Competence Requirements
+
 Risk assessors must demonstrate:
 
 - Understanding of business operations and technology
@@ -295,6 +329,7 @@ Risk assessors must demonstrate:
 ## Integration with ISMS
 
 ### ISMS Alignment
+
 Risk assessment results inform:
 
 - **Security Control Selection**: Based on identified risks and requirements
@@ -304,6 +339,7 @@ Risk assessment results inform:
 - **Management Review**: Regular reporting to senior management
 
 ### Continuous Monitoring
+
 Risk assessment supports:
 
 - **Threat Detection**: Enhanced monitoring based on identified risks

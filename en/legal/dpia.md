@@ -302,7 +302,7 @@ This DPIA is integrated with ZanReal Labs' comprehensive Information Security Ma
 
 ---
 
-## 4.2 Asset-Based Risk Assessment
+### 4.2 Asset-Based Risk Assessment
 
 #### 4.2.1 Information Asset Classification and Risk Analysis
 
