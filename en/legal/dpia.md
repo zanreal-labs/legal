@@ -848,12 +848,6 @@ This comprehensive Data Protection Impact Assessment (DPIA) demonstrates that Za
 
 ---
 
-## Previous Versions
-
-The previous versions of our Policies and other documents can be seen at [GitHub](https://github.com/zanreal-labs/legal)
-
----
-
 ## 13. Risk Treatment Plan
 
 ### 13.1 Risk Treatment Strategies
@@ -1072,3 +1066,9 @@ The previous versions of our Policies and other documents can be seen at [GitHub
 - Tool consolidation and integration
 - Metrics-driven decision making
 - Culture of continuous improvement and learning
+
+---
+
+## Previous Versions
+
+The previous versions of our Policies and other documents can be seen at [GitHub](https://github.com/zanreal-labs/legal)

@@ -364,13 +364,6 @@ These procedures apply to all information security incidents affecting:
 
 ---
 
-**Document Control:**
+## Previous Versions
 
-- Version: 1.0
-- Effective Date: December 2024
-- Next Review: June 2025
-- Owner: Information Security Team
-
----
-
-For more information about ZanReal Labs, visit our [GitHub repository](https://github.com/ZanRealLabs).
+The previous versions of our Policies and other documents can be seen at [GitHub](https://github.com/zanreal-labs/legal)

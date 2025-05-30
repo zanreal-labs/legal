@@ -481,13 +481,6 @@ This plan covers:
 
 ---
 
-**Document Control:**
+## Previous Versions
 
-- Version: 1.0
-- Effective Date: December 2024
-- Next Review: June 2025
-- Owner: Business Continuity Manager
-
----
-
-For more information about ZanReal Labs, visit our [GitHub repository](https://github.com/ZanRealLabs).
+The previous versions of our Policies and other documents can be seen at [GitHub](https://github.com/zanreal-labs/legal)
