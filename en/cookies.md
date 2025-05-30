@@ -40,7 +40,7 @@ We use the following categories of cookies on our website:
 
 Your preferences are stored securely in your browser (IndexedDB) and in our systems to honor your choices and to comply with legal obligations under the GDPR.
 
-##  Managing Your Preferences
+## Managing Your Preferences
 
 You can adjust your cookie preferences at any time using the cookie consent banner, available via the floating icon or footer link.
 
@@ -62,7 +62,7 @@ For analytics, we use Google Analytics. To opt out from Google Analytics, you ca
 
 ## Our Customers
 
-Customers who separately use cookies or similar technologies on their website hosted by ZANREAL Labs are independently and solely responsible for management of the data collected through those cookies, compliance with all laws related to usage of these technologies and notifying End Users as required by applicable laws.
+Customers who separately use cookies or similar technologies on their website hosted by ZanReal Labs are independently and solely responsible for management of the data collected through those cookies, compliance with all laws related to usage of these technologies and notifying End Users as required by applicable laws.
 
 ## Changes to this Cookie Policy
 

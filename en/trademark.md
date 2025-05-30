@@ -1,6 +1,6 @@
 ---
 title: Trademark Policy
-description: ZANREAL Labs respects the intellectual property rights of others and expects its users to do the same.
+description: ZanReal Labs respects the intellectual property rights of others and expects its users to do the same.
 ---
 
 ## What is a Trademark Policy violation?
@@ -9,7 +9,7 @@ Using a company or business name, logo, or other trademark-protected materials i
 
 ## What is not a Trademark Policy violation?
 
-Using another's trademark in a way that has nothing to do with the product or service for which the trademark was granted is not a trademark policy violation. ZANREAL Labs usernames and free deployment URLs are available on a first-come, first-served basis and may not be reserved. A ZANREAL Labs account with a username that happens to be the same as a registered trademark is not, by itself, necessarily a violation of our trademark policy.
+Using another's trademark in a way that has nothing to do with the product or service for which the trademark was granted is not a trademark policy violation. ZanReal Labs usernames and free deployment URLs are available on a first-come, first-served basis and may not be reserved. A ZanReal Labs account with a username that happens to be the same as a registered trademark is not, by itself, necessarily a violation of our trademark policy.
 
 ## How do we respond to reported Trademark Policy violations?
 
@@ -28,7 +28,7 @@ In order to investigate trademark policy violations, please provide all of the f
 
 - Username of the reported account or deployment URL
 - Your company name
-- Your company's ZANREAL Labs team name (if there is one)
+- Your company's ZanReal Labs team name (if there is one)
 - Company website
 - Your trademarked word, symbol, etc.
 - Trademark registration number

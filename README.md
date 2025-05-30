@@ -1,8 +1,8 @@
-# ZANREAL Labs - Legal Documents Repository
+# ZanReal Labs - Legal Documents Repository
 
 ## Welcome to Our Legal Documents Collection
 
-This repository contains all publicly available legal documents related to ZANREAL Labs. As part of our commitment to transparency, we've made these documents openly accessible to our users, customers, partners, and the general public.
+This repository contains all publicly available legal documents related to ZanReal Labs. As part of our commitment to transparency, we've made these documents openly accessible to our users, customers, partners, and the general public.
 
 ## Purpose
 
@@ -11,15 +11,16 @@ We believe in building trust through transparency. This repository serves as a c
 ## Contents
 
 In this repository, you'll find:
+
 - Terms of Service
 - Privacy Policy
 - Cookie Policy
 - Compliance Documents
 - Other public legal documents
 
-## About ZANREAL Labs
+## About ZanReal Labs
 
-**Company Brand Name:** ZANREAL Labs
+**Company Brand Name:** ZanReal Labs
 **Legal Entity Name:** ZANREAL Mateusz Janota
 
 ## Updates
