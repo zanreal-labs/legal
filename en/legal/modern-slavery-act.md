@@ -55,7 +55,7 @@ Any concerns and/or complaints arising under or related to the Acts should be re
 
 This statement is made for the financial year ending January 31, 2026. It was signed by the CEO on May 30, 2025.
 
-**Mateusz Janot**
+**Mateusz Janota**
 
 CEO & Founder
 
