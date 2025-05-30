@@ -332,19 +332,19 @@ UK International Data Transfer Addendum
 #### Table 1: Parties
 
 | **Start date** | The date this Addendum enters into force |
-|---|---|
+| --- | --- |
 | **The Parties** | Data exporter: Customer (as data controller or processor) and Data importer: ZanReal Labs (as processor) |
 
 #### Table 2: Selected SCCs, Modules and Selected Clauses
 
 | **Addendum EU SCCs** | The version of the Approved EU SCCs which this Addendum is appended to |
-|---|---|
+| ------------ | --- |
 | **Module** | Module Two (controller to processor) and/or Module Three (processor to processor) as applicable |
 
 #### Table 3: Appendix Information
 
 | **Appendix** | Information |
-|---|---|
+| --- | --- |
 | **Annex 1A: List of Parties** | As set out in Schedule 1 |
 | **Annex 1B: Description of Transfer** | As set out in Schedule 1 |
 | **Annex II: Technical and organisational measures** | As set out in Schedule 2 |
@@ -353,7 +353,7 @@ UK International Data Transfer Addendum
 #### Table 4: Ending this Addendum when the Approved Addendum Changes
 
 | **Ending this Addendum when the Approved Addendum changes** | Which Parties may end this Addendum as set out in Section 19: Customer and ZanReal Labs |
-|---|---|
+| --- | --- |
 
 ### Part 2: Mandatory Clauses
 
