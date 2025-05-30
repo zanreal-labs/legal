@@ -76,13 +76,16 @@ ZanReal Labs commits to:
 
 ### Risk Management Approach
 
-We implement a risk-based approach to information security that includes:
+We implement a comprehensive risk-based approach to information security that includes:
 
-- Regular risk assessments of information assets and systems
-- Identification and evaluation of security threats and vulnerabilities
-- Implementation of appropriate security controls based on risk levels
-- Continuous monitoring and review of security effectiveness
-- Incident response and business continuity planning
+- **Risk Assessment Methodology**: Systematic identification and evaluation of information security risks using quantitative and qualitative analysis
+- **Asset-Based Risk Analysis**: Regular assessment of risks to information assets based on confidentiality, integrity, and availability requirements
+- **Threat and Vulnerability Analysis**: Continuous identification of security threats and vulnerabilities using threat intelligence and automated scanning
+- **Risk Treatment Planning**: Implementation of appropriate security controls based on risk levels, business impact, and cost-benefit analysis
+- **Risk Monitoring**: Continuous monitoring and review of security risks with regular reassessment and treatment plan updates
+- **Incident Response Integration**: Incorporation of incident data and lessons learned into risk assessment processes
+- **Third-Party Risk Assessment**: Comprehensive evaluation of supplier and vendor security risks
+- **Business Continuity Risk Analysis**: Assessment of risks to business operations and development of appropriate contingency plans
 
 ### Control Framework
 
@@ -150,18 +153,25 @@ Access to information systems and data is granted based on the principle of leas
 
 ### User Access Management
 
-**User Registration**: All users must be formally registered with unique identities
-**Privilege Management**: Administrative privileges are restricted and monitored
-**Password Policy**: Strong passwords and multi-factor authentication required
-**Session Management**: Automatic session timeouts and secure session handling
+**User Registration**: All users must be formally registered with unique identities in our centralized identity management system
+
+**Privilege Management**: Administrative privileges are restricted and monitored through Cloudflare Zero Trust access controls with continuous verification
+
+**Authentication Policy**: Multi-factor authentication is mandatory using:
+
+- Passkeys for passwordless authentication where supported
+- YubiKey FIDO2 hardware security keys for enhanced phishing-resistant authentication
+- Strong passwords with MFA for legacy systems that cannot support modern authentication
+
+**Session Management**: Automatic session timeouts and secure session handling through Cloudflare Zero Trust architecture with real-time risk assessment
 
 ### System and Application Access
 
-- Network access controls and segmentation
-- Application-level access controls and authentication
-- Database access restrictions and monitoring
-- API security and rate limiting
-- Remote access through secure VPN connections
+- Network access controls and segmentation through Cloudflare Zero Trust ZTNA (Zero Trust Network Access)
+- Application-level access controls and authentication with real-time policy enforcement
+- Database access restrictions and monitoring with detailed audit logging
+- API security and rate limiting through Cloudflare API Gateway protection
+- Remote access exclusively through Cloudflare Zero Trust secure tunnels, eliminating traditional VPN vulnerabilities
 
 ## Cryptography
 
@@ -178,10 +188,36 @@ We implement strong cryptographic controls to protect sensitive information:
 
 Cryptographic keys are managed through:
 
-- Hardware Security Modules (HSMs) for key storage
-- Regular key rotation and lifecycle management
+- Hardware Security Modules (HSMs) for high-value key storage
+- Regular key rotation and lifecycle management according to industry standards
 - Separation of duties for key management operations
 - Secure key backup and recovery procedures
+- Key escrow and recovery planning for business continuity
+
+## Data Protection and Privacy
+
+### Data Processing Principles
+
+All personal data processing must comply with:
+
+- **Lawfulness, Fairness, and Transparency**: Clear legal basis and transparent processing
+- **Purpose Limitation**: Data used only for specified, explicit, and legitimate purposes
+- **Data Minimization**: Collection and processing limited to what is necessary
+- **Accuracy**: Reasonable steps to ensure data accuracy and timely correction
+- **Storage Limitation**: Data retained only as long as necessary for processing purposes
+- **Integrity and Confidentiality**: Appropriate security measures to protect personal data
+- **Accountability**: Demonstration of compliance with data protection principles
+
+### Privacy by Design
+
+Technical and organizational measures include:
+
+- **Data Protection Impact Assessments (DPIA)**: Mandatory for high-risk processing activities
+- **Privacy-Enhancing Technologies**: Implementation of anonymization, pseudonymization, and differential privacy
+- **Data Portability**: Technical measures to enable data portability rights
+- **Right to Erasure**: Automated and manual data deletion capabilities
+- **Consent Management**: Granular consent mechanisms with easy withdrawal options
+- **Cross-Border Transfer Safeguards**: Appropriate safeguards for international data transfers including Standard Contractual Clauses (SCCs)
 
 ## Physical and Environmental Security
 
@@ -205,45 +241,73 @@ Physical security controls include:
 
 ### Operational Procedures
 
-- Documented procedures for system operations
-- Change management and configuration control
-- Capacity monitoring and performance management
-- Backup and recovery procedures
-- System monitoring and log management
+- Documented procedures for system operations with automated workflow integration
+- Change management and configuration control through Infrastructure as Code (IaC)
+- Capacity monitoring and performance management via cloud-native monitoring tools
+- Automated backup and recovery procedures with geo-redundant storage
+- Comprehensive system monitoring and log management through Wazuh SIEM platform with real-time threat detection and response capabilities
 
 ### Network Security
 
-- Network segmentation and access controls
-- Intrusion detection and prevention systems
-- Secure wireless network configurations
-- Network monitoring and traffic analysis
-- Regular network security assessments
+- Network segmentation and micro-segmentation through Cloudflare Zero Trust architecture
+- Intrusion detection and prevention systems powered by Wazuh SIEM with advanced threat hunting capabilities
+- Secure wireless network configurations with enterprise-grade WPA3 encryption
+- Continuous network monitoring and traffic analysis through Wazuh network monitoring modules
+- Regular network security assessments and automated vulnerability scanning via Nessus Professional
+- DDoS protection and web application firewall through Cloudflare security stack
 
 ### System Security
 
-- Secure system configuration standards
-- Regular security updates and patch management
-- Malware protection and detection systems
-- Vulnerability scanning and assessment
-- System hardening and security baselines
+- Secure system configuration standards enforced through automated compliance scanning
+- Regular security updates and patch management with automated deployment for critical patches
+- Advanced endpoint protection through Bitdefender GravityZone with machine learning-based threat detection
+- Comprehensive vulnerability scanning and assessment using Nessus Professional with automated remediation workflows
+- System hardening and security baselines based on CIS (Center for Internet Security) benchmarks
+- Real-time malware detection and response through Bitdefender's advanced threat intelligence
+- Endpoint Detection and Response (EDR) capabilities for advanced persistent threat (APT) detection
+
+### Cloud Security
+
+**Multi-Cloud Security Architecture**:
+
+- **Cloud Security Posture Management (CSPM)**: Continuous monitoring and compliance assessment across AWS, Microsoft Azure, and Google Cloud Platform
+- **Cloud Access Security Broker (CASB)**: Visibility and control over cloud application usage and data movement
+- **Infrastructure as Code (IaC) Security**: Security scanning and compliance validation of infrastructure templates
+- **Container Security**: Image scanning, runtime protection, and Kubernetes security policies
+- **Serverless Security**: Function-level security controls and monitoring for serverless deployments
+- **Cloud-Native Backup**: Automated, encrypted backups with geo-redundant storage across multiple cloud regions
+- **Multi-Cloud Identity Federation**: Centralized identity management across cloud platforms with single sign-on (SSO)
 
 ## System Acquisition, Development and Maintenance
 
 ### Security in Development
 
-- Security requirements in system specifications
-- Secure coding standards and practices
-- Security testing throughout development lifecycle
-- Code review and static analysis procedures
-- Secure deployment and configuration management
+- Security requirements integrated into system specifications from the design phase
+- Secure coding standards and practices based on OWASP guidelines
+- Automated security testing throughout development lifecycle using SAST/DAST tools
+- Mandatory code review and static analysis procedures before production deployment
+- Secure deployment and configuration management through Infrastructure as Code (IaC)
+- Container security scanning and runtime protection
+- Dependency vulnerability scanning and management
 
 ### Application Security
 
-- Input validation and output encoding
-- Authentication and session management
-- Authorization and access control mechanisms
-- Error handling and logging procedures
-- Security testing and vulnerability assessment
+- Input validation and output encoding with automated security testing
+- Authentication and session management with modern protocols (OAuth 2.0, OIDC)
+- Authorization and access control mechanisms with role-based and attribute-based controls
+- Error handling and logging procedures with secure error responses
+- Security testing and vulnerability assessment integrated into CI/CD pipelines
+- API security with rate limiting, authentication, and comprehensive logging
+
+### AI Security and Governance
+
+- **AI Model Security**: Secure deployment and monitoring of AI/ML models with access controls and audit logging
+- **Data Protection**: Privacy-preserving techniques for AI training data including anonymization and pseudonymization
+- **Output Monitoring**: Continuous monitoring of AI-generated content for bias, accuracy, and sensitive information disclosure
+- **Human Oversight**: Mandatory human review for AI decisions with significant business or privacy impact
+- **Transparency Controls**: Documentation and explainability requirements for AI decision-making processes
+- **Vendor AI Services**: Security assessments and data protection requirements for third-party AI services
+- **Prompt Injection Protection**: Security controls to prevent malicious prompt injection and model manipulation
 
 ## Supplier Relationships
 
@@ -269,13 +333,15 @@ All suppliers and third-party service providers must:
 
 ### Incident Response
 
-We maintain a formal incident response capability including:
+We maintain a comprehensive incident response capability including:
 
-- 24/7 incident detection and reporting mechanisms
-- Trained incident response team and escalation procedures
-- Evidence collection and forensic analysis capabilities
-- Communication plans for stakeholders and authorities
-- Post-incident review and lessons learned processes
+- 24/7 incident detection and automated alerting through Wazuh SIEM with custom correlation rules
+- Trained incident response team with defined escalation procedures and communication channels
+- Digital forensics and evidence collection capabilities through specialized tooling
+- Automated threat containment and isolation through Cloudflare Zero Trust and Bitdefender response actions
+- Stakeholder communication plans including customer notification and regulatory reporting procedures
+- Post-incident review processes with lessons learned integration into security controls
+- Threat hunting capabilities using Wazuh's advanced analytics and MITRE ATT&CK framework mapping
 
 ### Incident Classification
 
@@ -328,23 +394,29 @@ ZanReal Labs complies with applicable legal and regulatory requirements includin
 
 ### Audit and Assessment
 
-- Annual third-party security audits and assessments
-- SOC 2 Type 2 compliance reporting
-- Regular internal security audits and reviews
-- Penetration testing and vulnerability assessments
-- Management reviews of security program effectiveness
+- Annual third-party security audits and ISO 27001 compliance assessments
+- SOC 2 Type 2 compliance reporting with quarterly attestations
+- Monthly internal security audits and control effectiveness reviews conducted by our security team
+- Quarterly penetration testing and vulnerability assessments using Nessus Professional and external security firms
+- Continuous security posture assessment through automated tools and metrics
+- Management reviews of security program effectiveness with board-level reporting
+- Regular red team exercises and purple team collaboration for defense validation
 
 ## Training and Awareness
 
 ### Security Awareness Program
 
-All personnel receive:
+All personnel receive comprehensive security training including:
 
-- Initial security awareness training upon joining
-- Annual refresher training on security policies
-- Role-specific security training based on responsibilities
-- Phishing simulation and security testing exercises
-- Updates on emerging threats and security best practices
+- **Initial Security Orientation**: Security awareness training within the first week of joining
+- **Annual Refresher Training**: Updated security policies, emerging threats, and best practices
+- **Role-Specific Training**: Specialized security training based on job responsibilities and data access levels
+- **Phishing Simulation Exercises**: Regular simulated phishing attacks with immediate feedback and additional training
+- **Security Champions Program**: Advanced training for designated security champions in each department
+- **Incident Response Training**: Tabletop exercises and incident simulation training
+- **Privacy and Data Protection Training**: GDPR compliance and data handling best practices
+- **Secure Development Training**: Security coding practices for development teams
+- **Third-Party Security Training**: Security requirements training for contractors and vendors
 
 ### Training Requirements
 
@@ -360,11 +432,32 @@ All personnel receive:
 
 Continuous monitoring includes:
 
-- Real-time security event monitoring and alerting
-- Regular security metrics collection and analysis
-- Threat intelligence and vulnerability monitoring
-- Compliance monitoring and reporting
-- Performance measurement of security controls
+- Real-time security event monitoring and automated alerting through Wazuh SIEM dashboard
+- Comprehensive security metrics collection and analysis with custom KPIs and reporting
+- Threat intelligence integration and vulnerability monitoring through multiple threat feeds
+- Compliance monitoring and automated reporting for regulatory requirements
+- Performance measurement of security controls with effectiveness metrics
+- Advanced behavioral analytics and anomaly detection for insider threat identification
+- Integration with SOAR (Security Orchestration, Automation and Response) capabilities for automated incident response
+
+### Security Metrics and KPIs
+
+**Technical Security Metrics**:
+
+- **Mean Time to Detection (MTTD)**: Average time to detect security incidents
+- **Mean Time to Response (MTTR)**: Average time to respond to and contain security incidents
+- **Vulnerability Management**: Percentage of critical/high vulnerabilities remediated within SLA timeframes
+- **Patch Management**: Percentage of systems with current security patches applied
+- **Access Control Effectiveness**: Regular access reviews and privilege certification completion rates
+- **Security Training Completion**: Personnel security awareness training completion rates and effectiveness scores
+
+**Business Security Metrics**:
+
+- **Security Investment ROI**: Cost-benefit analysis of security control investments
+- **Compliance Scores**: Audit findings and regulatory compliance assessment results
+- **Third-Party Risk**: Vendor security assessment scores and compliance rates
+- **Business Continuity**: Recovery time and recovery point objectives achievement during tests
+- **Customer Trust Metrics**: Security-related customer satisfaction and trust indicators
 
 ### Management Review
 
