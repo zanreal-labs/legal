@@ -4,13 +4,13 @@ description: Privacy notice for job applicants at ZanReal Labs
 categories: [privacy, gdpr, hr, employment, data-protection, recruitment, ccpa]
 ---
 
-Thank you for your interest in joining ZanReal Labs, including our subsidiaries and affiliates, ("ZanReal Labs," "we," "our," or "us"). This Job Applicant Privacy Notice ("Notice") explains how we collect, use, and share personal information when you apply for a job with ZanReal Labs. Capitalized terms not defined in this Notice are defined in our [Privacy Notice](/en/legal/privacy).
+Thank you for your interest in joining ZanReal Labs, including our subsidiaries and affiliates, ("ZanReal Labs," "we," "our," or "us"). This Job Applicant Privacy Notice ("Notice") explains how we collect, use, and share personal information when you apply for a job with ZanReal Labs. Capitalized terms not defined in this Notice are defined in our [Privacy Notice](/legal/privacy).
 
 This Notice applies to job applicants and describes ZanReal Labs' privacy practices when you apply for employment or are considered for a position with us. Depending on where you apply for a position, we may provide additional information to you relating to the content of this Notice.
 
 This Notice does not cover the following:
 
-- **ZanReal Labs customers**: For more information about how ZanReal Labs collects and uses personal information in delivering our software development, marketing services, remote IT support, SEO optimization, and UI/UX design services to Customers, please see our [Privacy Notice](/en/legal/privacy).
+- **ZanReal Labs customers**: For more information about how ZanReal Labs collects and uses personal information in delivering our software development, marketing services, remote IT support, SEO optimization, and UI/UX design services to Customers, please see our [Privacy Notice](/legal/privacy).
 - **ZanReal Labs employees**: For more information about how ZanReal Labs collects and uses personal information from ZanReal Labs employees, please contact [privacy@zanreal.com](mailto:privacy@zanreal.com).
 
 ## Information We Collect
@@ -19,7 +19,7 @@ We collect and process personal information for recruitment, interviewing, and h
 
 ### Information You Provide Directly to Us
 
-In addition to the information that we collect when you use our Sites, as described in the [Privacy Notice](/en/legal/privacy), we collect the following information directly from you as part of our Recruitment Activities:
+In addition to the information that we collect when you use our Sites, as described in the [Privacy Notice](/legal/privacy), we collect the following information directly from you as part of our Recruitment Activities:
 
 - **Academic and professional experience**, such as employment history, level of education, skills, certifications, professional affiliations, and other relevant career information you choose to provide
 - **Work eligibility**, such as your eligibility to work in the country where you applied for a job and your start date
@@ -116,17 +116,17 @@ You have certain choices available when it comes to the personal information tha
 
 ### Your Choices
 
-Where appropriate or legally required, we describe how we use the personal information collected, so you can make choices about your personal information. See our [Privacy Notice](/en/legal/privacy) to learn more about your choices.
+Where appropriate or legally required, we describe how we use the personal information collected, so you can make choices about your personal information. See our [Privacy Notice](/legal/privacy) to learn more about your choices.
 
 When you engage in our Recruitment Activities, you may receive emails or other forms of communication from us. You can opt out of recruiting communications by following the unsubscribe instructions included in these emails.
 
 ### Your Rights
 
-Depending on where you are located, you may have certain rights in connection with your personal information. These rights vary depending on your jurisdiction and you may be able to exercise some rights directly on our job application site through your profile or by making choices on communications you receive from us. To learn more about your rights, please see our [Privacy Notice](/en/legal/privacy).
+Depending on where you are located, you may have certain rights in connection with your personal information. These rights vary depending on your jurisdiction and you may be able to exercise some rights directly on our job application site through your profile or by making choices on communications you receive from us. To learn more about your rights, please see our [Privacy Notice](/legal/privacy).
 
 Unless otherwise explained to you in advance, you are not obligated to provide your personal information to us. If you decide not to provide your personal information, we will not be able to engage in Recruitment Activities with you. You may also request that we withdraw your application for a specific position without deleting your information. We will not discriminate against you for exercising any of your rights.
 
-To help protect your privacy and maintain security, we take steps to verify your identity before responding to rights requests. Please see our [Privacy Notice](/en/legal/privacy) for more information.
+To help protect your privacy and maintain security, we take steps to verify your identity before responding to rights requests. Please see our [Privacy Notice](/legal/privacy) for more information.
 
 ## Changes to This Notice
 
@@ -136,7 +136,7 @@ If we make significant changes to this Notice, we will notify you through our Si
 
 ## Contact Us
 
-If you have questions about this Notice or to update or request changes to your personal information, please contact us at [privacy@zanreal.com](mailto:privacy@zanreal.com) or refer to our [Privacy Notice](/en/legal/privacy) for additional information on our privacy program.
+If you have questions about this Notice or to update or request changes to your personal information, please contact us at [privacy@zanreal.com](mailto:privacy@zanreal.com) or refer to our [Privacy Notice](/legal/privacy) for additional information on our privacy program.
 
 You can also contact us at:
 

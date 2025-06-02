@@ -18,7 +18,7 @@ Attempts to sell, buy, or solicit other forms of payment in exchange for deploym
 
 ## What if a potentially inactive account is using my trademark?
 
-If you believe your trademark rights are being infringed and the account seems inactive, please see our [Trademark Policy](/en/legal/trademark) for additional information.
+If you believe your trademark rights are being infringed and the account seems inactive, please see our [Trademark Policy](/legal/trademark) for additional information.
 
 ## Requesting a username or deployment URL
 
