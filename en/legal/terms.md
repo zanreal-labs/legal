@@ -236,4 +236,4 @@ If you use the ZanReal Labs Storage Products, including but not limited to integ
 
 ### 2. DORA
 
-To the extent that your use of the Services is subject to the Digital Operational Resilience Act, you agree to the terms of the [DORA Addendum](/legal/dora-addendum.md).
+To the extent that your use of the Services is subject to the Digital Operational Resilience Act, you agree to the terms of the [DORA Addendum](/legal/dora-addendum).
