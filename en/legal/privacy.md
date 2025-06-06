@@ -143,7 +143,8 @@ We disclose information as necessary to provide the Sites and Services, as requi
   - Security, abuse, and fraud service providers to monitor and protect the Services and Customers from illegal, deceptive, or malicious activity.
   - Domain registrars, registries and other domain name service providers for the purposes of domain registration and listing via the WHOIS protocol.
   - Corporate and information technology services to facilitate business operations and communications.
-  - Analytics companies to review and report on our Marketing Activities and Services.
+  - Analytics companies to review and report on our Marketing Activities and Services, including Google Analytics for website performance analysis (analytics_storage) and user behavior insights, as well as marketing data collection (ad_storage, ad_user_data, ad_personalization).
+  - Advertising platforms, including Google Ads, to deliver targeted marketing content and measure campaign effectiveness.
   - Any other suppliers, sub-contractors, partners, vendors, and other service providers acting on our behalf.
 
 These service providers are authorized to use your information only as necessary to provide Services to ZanReal Labs. We may use and disclose aggregate information that does not identify or otherwise relate to an individual for any purpose unless we are prohibited from doing so under applicable law.

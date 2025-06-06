@@ -90,21 +90,25 @@ This DPIA is integrated with ZanReal Labs' comprehensive Information Security Ma
 ### 3.2 Marketing Services
 
 **Purpose:** Digital marketing campaigns, SEO optimization, performance analytics
-**Legal Basis:** Contract performance, consent (for direct marketing), legitimate interests
+**Legal Basis:** Contract performance, consent (for direct marketing and analytics tracking), legitimate interests
 **Data Categories:**
 
-- Website visitor analytics (IP addresses, browser data, behavioral patterns)
+- Website visitor analytics (IP addresses, browser data, behavioral patterns) - **collected only after user consent**
 - Marketing campaign performance data
 - SEO analysis data
 - Contact information for marketing communications
-- Conversion tracking data
+- Conversion tracking data - **collected only after user consent**
+- Google Analytics data (page views, user sessions, demographic insights, analytics_storage) - **collected only after user consent**
+- Google Analytics marketing data (ad_storage, ad_user_data, ad_personalization) - **collected only after user consent**
+- Google Ads data (click-through rates, conversion metrics, audience targeting data) - **collected only after user consent**
 
 **Data Subjects:** Website visitors, marketing contacts, customers
 **Retention Period:**
 
-- Analytics data: 26 months
+- Analytics data: 26 months (Google Analytics default retention) - **only applies to consented data**
 - Marketing contacts: Until withdrawal of consent or 3 years of inactivity
-**Recipients:** Marketing team, analytics platforms, advertising networks (anonymized data)
+- Google Ads data: 38 months (Google Ads default retention) - **only applies to consented data**
+**Recipients:** Marketing team, analytics platforms, advertising networks (anonymized data), Google LLC - **data shared only when user consent is obtained**
 
 ### 3.3 Remote IT Support Services
 

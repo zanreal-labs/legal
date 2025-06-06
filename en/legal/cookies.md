@@ -39,8 +39,8 @@ We use the following categories of cookies on our websites and service platforms
 |----------------|---------|-------------|------------------|
 | **Essential** | Necessary for the core functionality of our websites and services, such as page navigation, secure access, session handling, and service delivery. These cookies are always enabled. | Legitimate interest (Art. 6(1)(f) GDPR) | No |
 | **Functional** | Enable enhanced functionality and personalization across our services. Examples include remembering user preferences, enabling client-side features, and maintaining service configurations for software development and IT support. | Consent (Art. 6(1)(a) GDPR) | Yes |
-| **Analytics** | Help us understand how users interact with our websites and services by collecting anonymized data. This improves overall performance, usability, and service delivery across software development, marketing, SEO, and UI/UX services. | Consent (Art. 6(1)(a) GDPR) | Yes |
-| **Marketing** | Used to deliver relevant marketing content, track campaign effectiveness, optimize SEO performance, and measure engagement across our marketing services. These cookies may track user behavior across websites to provide personalized marketing experiences. | Consent (Art. 6(1)(a) GDPR) | Yes |
+| **Analytics** | Help us understand how users interact with our websites and services by collecting anonymized data. This improves overall performance, usability, and service delivery across software development, marketing, SEO, and UI/UX services. Includes Google Analytics for website analytics (analytics_storage). | Consent (Art. 6(1)(a) GDPR) | Yes |
+| **Marketing** | Used to deliver relevant marketing content, track campaign effectiveness, optimize SEO performance, and measure engagement across our marketing services. These cookies may track user behavior across websites to provide personalized marketing experiences. Includes Google Analytics for marketing purposes (ad_storage, ad_user_data, ad_personalization) and Google Ads for targeted advertising campaigns. | Consent (Art. 6(1)(a) GDPR) | Yes |
 
 Your preferences are stored securely in your browser (IndexedDB) and in our systems to honor your choices and to comply with legal obligations under the GDPR.
 
@@ -62,7 +62,9 @@ You can learn more about cookies by visiting [www.allaboutcookies.org](https://w
 
 If you'd like to remove or disable cookies via your browser, please refer to your browser's configuration documentation. Please note, however, that by blocking or deleting all cookies used across our Services, you may not be able to take full advantage of our websites, software solutions, or service platforms, and you may not be able to properly access client portals or service dashboards.
 
-For analytics, we use Google Analytics and other analytics tools to measure the performance of our marketing campaigns, SEO efforts, and service delivery. To opt out from Google Analytics, you can download a plug-in by visiting [tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
+For analytics, we use Google Analytics and other analytics tools to measure the performance of our marketing campaigns, SEO efforts, and service delivery. Google Analytics collects data through analytics_storage for website performance analysis and through ad_storage, ad_user_data, and ad_personalization for marketing purposes. To opt out from Google Analytics, you can download a plug-in by visiting [tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
+
+For advertising, we use Google Ads to deliver targeted marketing content and measure campaign effectiveness. You can control personalized advertising by visiting [www.google.com/settings/ads](https://www.google.com/settings/ads) or by opting out of interest-based advertising through the Digital Advertising Alliance at [optout.aboutads.info](http://optout.aboutads.info).
 
 ## Our Clients and Service Delivery
 
