@@ -1,16 +1,16 @@
 ---
 title: Information Security Policy
-description: ZanReal Labs' comprehensive Information Security Policy establishing the framework for protecting information assets and ensuring confidentiality, integrity, and availability of all systems and data.
+description: ZanReal' comprehensive Information Security Policy establishing the framework for protecting information assets and ensuring confidentiality, integrity, and availability of all systems and data.
 categories: [iso27001, iso27002, security, isms, compliance, privacy, cloud, risk-management, incident-response, business-continuity, access-control]
 ---
 
-ZanReal Labs ("ZanReal Labs", "we", "us", or "our") is committed to ensuring the confidentiality, integrity, and availability of all information assets and systems. This Information Security Policy establishes the framework for protecting our information assets, customer data, and technology infrastructure against security threats, unauthorized access, and data breaches.
+ZanReal ("ZanReal", "we", "us", or "our") is committed to ensuring the confidentiality, integrity, and availability of all information assets and systems. This Information Security Policy establishes the framework for protecting our information assets, customer data, and technology infrastructure against security threats, unauthorized access, and data breaches.
 
-This policy applies to all information systems, data, and technology assets owned, operated, or managed by ZanReal Labs, including those used in our comprehensive technology services: software development, marketing services, remote IT support, SEO optimization, UI/UX design services, cloud platforms, and related professional services.
+This policy applies to all information systems, data, and technology assets owned, operated, or managed by ZanReal, including those used in our comprehensive technology services: software development, marketing services, remote IT support, SEO optimization, UI/UX design services, cloud platforms, and related professional services.
 
 ## Business Context
 
-As a comprehensive technology services provider offering software development services, marketing services, remote IT support, SEO optimization, UI/UX design services, cloud platforms, and related professional services, ZanReal Labs handles sensitive customer data, proprietary information, and critical business systems. Our integrated platform and managed infrastructure services provide customers with the tools, workflows, and expertise they need to build, deploy, optimize, and scale their digital presence and business operations.
+As a comprehensive technology services provider offering software development services, marketing services, remote IT support, SEO optimization, UI/UX design services, cloud platforms, and related professional services, ZanReal handles sensitive customer data, proprietary information, and critical business systems. Our integrated platform and managed infrastructure services provide customers with the tools, workflows, and expertise they need to build, deploy, optimize, and scale their digital presence and business operations.
 
 Given our distributed, global workforce and reliance on cloud infrastructure across AWS, Microsoft Azure, and Google Cloud Platform, robust information security is essential for:
 
@@ -23,11 +23,11 @@ Given our distributed, global workforce and reliance on cloud infrastructure acr
 
 This policy applies to:
 
-- All ZanReal Labs employees, contractors, and third-party personnel
-- All information systems, networks, and devices owned or operated by ZanReal Labs
-- All customer data and personal information processed by ZanReal Labs
-- All third-party services and cloud infrastructure used by ZanReal Labs
-- All physical and virtual assets containing or processing ZanReal Labs information
+- All ZanReal employees, contractors, and third-party personnel
+- All information systems, networks, and devices owned or operated by ZanReal
+- All customer data and personal information processed by ZanReal
+- All third-party services and cloud infrastructure used by ZanReal
+- All physical and virtual assets containing or processing ZanReal information
 
 ## Governance and Responsibilities
 
@@ -67,7 +67,7 @@ Management at all levels must:
 
 ### Security Objectives
 
-ZanReal Labs commits to:
+ZanReal commits to:
 
 - **Confidentiality**: Ensuring information is accessible only to authorized individuals
 - **Integrity**: Maintaining accuracy and completeness of information and systems
@@ -385,7 +385,7 @@ We maintain comprehensive business continuity plans including:
 
 ### Regulatory Compliance
 
-ZanReal Labs complies with applicable legal and regulatory requirements including:
+ZanReal complies with applicable legal and regulatory requirements including:
 
 - General Data Protection Regulation (GDPR)
 - UK Modern Slavery Act 2015

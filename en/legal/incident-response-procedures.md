@@ -4,13 +4,13 @@ description: Detailed procedures for detecting, responding to, and recovering fr
 categories: [iso27001, iso27002, incident-response, security, isms, gdpr, privacy, breach-notification, crisis-management]
 ---
 
-ZanReal Labs ("ZanReal Labs", "we", "us", or "our") has established comprehensive incident response procedures to ensure rapid detection, containment, investigation, and recovery from information security incidents. These procedures support our commitment to maintaining the confidentiality, integrity, and availability of all information assets.
+ZanReal ("ZanReal", "we", "us", or "our") has established comprehensive incident response procedures to ensure rapid detection, containment, investigation, and recovery from information security incidents. These procedures support our commitment to maintaining the confidentiality, integrity, and availability of all information assets.
 
 ## Purpose and Scope
 
 These procedures apply to all information security incidents affecting:
 
-- ZanReal Labs systems, networks, and applications
+- ZanReal systems, networks, and applications
 - Customer data and personal information
 - Third-party services and cloud infrastructure
 - Physical and virtual assets

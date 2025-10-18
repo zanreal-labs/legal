@@ -1,6 +1,6 @@
 ---
 title: Trademark Policy
-description: ZanReal Labs respects the intellectual property rights of others and expects its users and clients to do the same across all our services including software development, marketing, remote IT support, SEO, and UI/UX design services.
+description: ZanReal respects the intellectual property rights of others and expects its users and clients to do the same across all our services including software development, marketing, remote IT support, SEO, and UI/UX design services.
 categories: [trademark, intellectual-property, legal, brand-protection, content-moderation, compliance]
 ---
 
@@ -10,7 +10,7 @@ Using a company or business name, logo, or other trademark-protected materials i
 
 ## What is not a Trademark Policy violation?
 
-Using another's trademark in a way that has nothing to do with the product or service for which the trademark was granted is not a trademark policy violation. ZanReal Labs usernames, service accounts, and deployment URLs are available on a first-come, first-served basis and may not be reserved. A ZanReal Labs account or service configuration with a name that happens to be the same as a registered trademark is not, by itself, necessarily a violation of our trademark policy.
+Using another's trademark in a way that has nothing to do with the product or service for which the trademark was granted is not a trademark policy violation. ZanReal usernames, service accounts, and deployment URLs are available on a first-come, first-served basis and may not be reserved. A ZanReal account or service configuration with a name that happens to be the same as a registered trademark is not, by itself, necessarily a violation of our trademark policy.
 
 ## How do we respond to reported Trademark Policy violations?
 
@@ -29,7 +29,7 @@ In order to investigate trademark policy violations, please provide all of the f
 
 - Username of the reported account, service configuration, or deployment URL
 - Your company name
-- Your company's ZanReal Labs account name (if there is one)
+- Your company's ZanReal account name (if there is one)
 - Country of your trademark registration
 - Trademark registration number
 - A description of how the account may cause confusion with your mark

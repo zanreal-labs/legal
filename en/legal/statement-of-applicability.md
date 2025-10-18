@@ -1,10 +1,10 @@
 ---
 title: Statement of Applicability (SoA)
-description: ZanReal Labs' Statement of Applicability defining the scope of the Information Security Management System and applicable ISO 27001/27002 controls
+description: ZanReal' Statement of Applicability defining the scope of the Information Security Management System and applicable ISO 27001/27002 controls
 categories: [iso27001, iso27002, isms, security-controls, compliance, risk-management, audit]
 ---
 
-ZanReal Labs ("ZanReal Labs", "we", "us", or "our") has established this Statement of Applicability (SoA) as part of our Information Security Management System (ISMS) to define the scope of our information security controls and their applicability to our business operations.
+ZanReal ("ZanReal", "we", "us", or "our") has established this Statement of Applicability (SoA) as part of our Information Security Management System (ISMS) to define the scope of our information security controls and their applicability to our business operations.
 
 This Statement of Applicability is aligned with ISO/IEC 27001:2022 and references the security controls from ISO/IEC 27002:2022.
 
@@ -12,7 +12,7 @@ This Statement of Applicability is aligned with ISO/IEC 27001:2022 and reference
 
 ### Organizational Scope
 
-- **Company**: ZanReal Labs - ZANREAL Mateusz Janota
+- **Company**: ZanReal - ZANREAL Mateusz Janota
 - **Business Activities**: Comprehensive technology services including software development, marketing services, remote IT support, SEO optimization, UI/UX design services, cloud platforms, and AI-powered solutions
 - **Geographic Coverage**: Global operations with distributed workforce
 - **Regulatory Environment**: GDPR, CCPA, PIPEDA, SOX, HIPAA (where applicable)
@@ -165,7 +165,7 @@ Limited physical controls (7.1, 7.2, 7.3, 7.11, 7.12) are partially excluded as 
 
 ### Additional Controls
 
-Beyond ISO 27002:2022, ZanReal Labs has implemented additional controls:
+Beyond ISO 27002:2022, ZanReal has implemented additional controls:
 
 - AI-specific security controls for machine learning systems
 - Enhanced privacy controls for GDPR compliance
@@ -176,7 +176,7 @@ Beyond ISO 27002:2022, ZanReal Labs has implemented additional controls:
 
 ## Conclusion
 
-This Statement of Applicability demonstrates ZanReal Labs' comprehensive approach to information security control implementation. All applicable ISO 27002:2022 controls have been implemented or are in the process of implementation, with appropriate justifications for any exclusions.
+This Statement of Applicability demonstrates ZanReal' comprehensive approach to information security control implementation. All applicable ISO 27002:2022 controls have been implemented or are in the process of implementation, with appropriate justifications for any exclusions.
 
 Regular reviews of this SoA will be conducted as part of the ISMS management review process to ensure continued relevance and effectiveness.
 

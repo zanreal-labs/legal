@@ -1,30 +1,30 @@
 ---
 title: Modern Slavery Act Statement
-description: ZanReal Labs' commitment to combating modern slavery and human trafficking in our business operations and supply chains
+description: ZanReal' commitment to combating modern slavery and human trafficking in our business operations and supply chains
 categories: [modern-slavery-act, esg, ethics, supply-chain, human-rights, compliance, social-responsibility]
 ---
 
-ZanReal Labs ("ZanReal Labs") is committed to conducting our business ethically and responsibly and improving our practices to combat modern slavery in our business by taking steps, to the extent we are able, to ensure that our supply chains are free from slavery and human trafficking. We recognize the importance of the UK Modern Slavery Act of 2015 and the role we play in ensuring that slavery and human trafficking are not present in our business operations and supply chains.
+ZanReal ("ZanReal") is committed to conducting our business ethically and responsibly and improving our practices to combat modern slavery in our business by taking steps, to the extent we are able, to ensure that our supply chains are free from slavery and human trafficking. We recognize the importance of the UK Modern Slavery Act of 2015 and the role we play in ensuring that slavery and human trafficking are not present in our business operations and supply chains.
 
-This statement sets out the steps we have taken to understand potential modern slavery risks within our business structure and supply chain, as well as the steps taken to eradicate these risks. References to "we" or "our" in this statement are references to ZanReal Labs.
+This statement sets out the steps we have taken to understand potential modern slavery risks within our business structure and supply chain, as well as the steps taken to eradicate these risks. References to "we" or "our" in this statement are references to ZanReal.
 
 ## Our Firm
 
-ZanReal Labs is a comprehensive technology services provider offering software development services, marketing services, remote IT support, SEO optimization, UI/UX design services, cloud platforms, and related professional services. Our integrated platform and managed infrastructure services provide customers with the tools, workflows, and expertise they need to build, deploy, optimize, and scale their digital presence and business operations.
+ZanReal is a comprehensive technology services provider offering software development services, marketing services, remote IT support, SEO optimization, UI/UX design services, cloud platforms, and related professional services. Our integrated platform and managed infrastructure services provide customers with the tools, workflows, and expertise they need to build, deploy, optimize, and scale their digital presence and business operations.
 
-ZanReal Labs opposes modern slavery and human trafficking in all forms and supports the UK and the US governments' efforts to prohibit such trafficking in persons. We do not tolerate any form of slavery, forced labor, or human trafficking in any part of our business or supply chain. We are committed to ensuring that our business is conducted in an ethical manner, which includes respecting human rights and avoiding any involvement, directly or indirectly, with slavery, forced labor, and human trafficking.
+ZanReal opposes modern slavery and human trafficking in all forms and supports the UK and the US governments' efforts to prohibit such trafficking in persons. We do not tolerate any form of slavery, forced labor, or human trafficking in any part of our business or supply chain. We are committed to ensuring that our business is conducted in an ethical manner, which includes respecting human rights and avoiding any involvement, directly or indirectly, with slavery, forced labor, and human trafficking.
 
 ## Our Supply Chain
 
-ZanReal Labs has its headquarters in San Francisco and a largely distributed, global workforce.
+ZanReal has its headquarters in San Francisco and a largely distributed, global workforce.
 
 Our supply chain primarily consists of goods and services, including but not limited to, computing and software services, event planning, catering services, IT equipment, recruitment agencies, purchase of retail items, office supplies, office cleaning services, food and beverage, leasing of facilities, such as office space and data centers, and professional services, such as legal and accounting firms.
 
 We have reviewed our supply chain and believe the overall risk of modern slavery and human trafficking in our organization to be low on the basis of:
 
-The nature of ZanReal Labs' business model. We are not subject to sudden changes in workload or pricing pressures that can increase the risk of forced labor in supply chains.
+The nature of ZanReal' business model. We are not subject to sudden changes in workload or pricing pressures that can increase the risk of forced labor in supply chains.
 
-The nature of our products and services. We do not conduct manufacturing or produce hardware, nor does ZanReal Labs offer services often performed by migrant workers.
+The nature of our products and services. We do not conduct manufacturing or produce hardware, nor does ZanReal offer services often performed by migrant workers.
 
 The locations from which we operate and procure goods and services for our products. We offer free and paid web-based platform-as-a-service to customers all over the world, mostly in developed markets.
 
@@ -46,7 +46,7 @@ We have also raised awareness of risks related to slavery and human trafficking 
 
 ## Ongoing Steps
 
-ZanReal Labs is fully committed to fulfilling our responsibilities under the UK Modern Slavery Act of 2015.
+ZanReal is fully committed to fulfilling our responsibilities under the UK Modern Slavery Act of 2015.
 
 We acknowledge the importance of awareness and education in combating modern slavery and human trafficking. As part of our commitment, we will explore opportunities to provide our employees with the necessary training and resources to recognize and prevent these practices.
 
@@ -60,4 +60,4 @@ This statement is made for the financial year ending January 31, 2026. It was si
 
 CEO & Founder
 
-ZanReal Labs
+ZanReal

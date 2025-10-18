@@ -1,4 +1,4 @@
-# ZanReal Labs - Legal Documents Repository
+# ZanReal - Legal Documents Repository
 
 ## Welcome to Our Legal Documents Collection
 
@@ -22,12 +22,12 @@ In this repository, you'll find:
 - Compliance Documents
 - Other public legal documents
 
-## About ZanReal Labs
+## About ZanReal
 
-**Company Brand Name:** ZanReal Labs  
+**Company Brand Name:** ZanReal
 **Legal Entity Name:** ZANREAL Mateusz Janota
 
-ZanReal Labs is a comprehensive technology service provider offering:
+ZanReal is a comprehensive technology service provider offering:
 
 - **Software Development**: Custom applications, web platforms, and cloud solutions
 - **Marketing Services**: Digital marketing campaigns, SEO optimization, and performance analytics

@@ -8,7 +8,7 @@ categories: [dora, financial-services, compliance, operational-resilience, eu-re
 
 ### 1.1
 
-To the extent that you are a company or other legal entity subject to DORA, this DORA Addendum ("Addendum") is entered into and is supplemental to, and made pursuant to, the Terms of Service or other agreement between you and ZanReal Labs ("ZanReal Labs") governing the provision of ZanReal Labs' cloud-based platform or software services to you ("Agreement"); is effective as of the later of: January 17, 2025 or the effective date of your Agreement ("Addendum Effective Date"); and the provisions below, including the additional definitions set out in paragraph 3, shall apply in relation to the provision of the Services by ZanReal Labs under the Agreement.
+To the extent that you are a company or other legal entity subject to DORA, this DORA Addendum ("Addendum") is entered into and is supplemental to, and made pursuant to, the Terms of Service or other agreement between you and ZanReal ("ZanReal") governing the provision of ZanReal' cloud-based platform or software services to you ("Agreement"); is effective as of the later of: January 17, 2025 or the effective date of your Agreement ("Addendum Effective Date"); and the provisions below, including the additional definitions set out in paragraph 3, shall apply in relation to the provision of the Services by ZanReal under the Agreement.
 
 ### 1.2
 
@@ -22,63 +22,63 @@ You enter into this Addendum on behalf of yourself to the extent required under 
 
 In the event of any conflict between the provisions set out in this Addendum and the rest of this Agreement, the provisions in this Addendum shall govern solely to the extent of the conflict.
 
-## 2. ZanReal Labs Commitments
+## 2. ZanReal Commitments
 
 ### 2.1
 
-The Services provided by ZanReal Labs to you are described in the Agreement.
+The Services provided by ZanReal to you are described in the Agreement.
 
 ### 2.2
 
-ZanReal Labs shall:
+ZanReal shall:
 
-(a) ensure or procure that the Service is only provided from, and Your Content is only stored and processed in, the United States or countries where ZanReal Labs or its [subprocessors](/security) maintain operations (each, a "Service Location"); and
+(a) ensure or procure that the Service is only provided from, and Your Content is only stored and processed in, the United States or countries where ZanReal or its [subprocessors](/security) maintain operations (each, a "Service Location"); and
 
 (b) notify you in advance if any of the Service Locations will change.
 
 ### 2.3
 
-ZanReal Labs shall:
+ZanReal shall:
 
-(a) ensure that you have access to all Your Content in ZanReal Labs' possession or control, in an easily accessible format through the Services, in the event:
+(a) ensure that you have access to all Your Content in ZanReal' possession or control, in an easily accessible format through the Services, in the event:
 
-- ZanReal Labs is subject to an Insolvency Event;
-- ZanReal Labs' business operations are subject to resolution or discontinuation; or
+- ZanReal is subject to an Insolvency Event;
+- ZanReal' business operations are subject to resolution or discontinuation; or
 - of termination or expiry of this Agreement within thirty (30) days of such event and upon request; and
 
 (b) ensure that it has and maintains in place and procure that its relevant subcontractors have and maintain in place, appropriate security standards and procedures designed to protect the availability, authenticity, integrity and confidentiality of Your Content.
 
 ### 2.4
 
-ZanReal Labs shall perform the Service in accordance with the service standards set out in the Agreement or, if there are no service standards specified, in accordance with standard industry practice and applicable law.
+ZanReal shall perform the Service in accordance with the service standards set out in the Agreement or, if there are no service standards specified, in accordance with standard industry practice and applicable law.
 
 ### 2.5
 
-In the event an ICT-Related Incident occurs in relation to the Service, ZanReal Labs shall, except where ZanReal Labs is responsible for the ICT-Related Incident, in return for the payment of fees calculated on a time and materials basis, using ZanReal Labs' rates then in effect, provide or procure the provision of such reasonable assistance as you may request in relation to the investigation, management and resolution of the ICT-Related Incident.
+In the event an ICT-Related Incident occurs in relation to the Service, ZanReal shall, except where ZanReal is responsible for the ICT-Related Incident, in return for the payment of fees calculated on a time and materials basis, using ZanReal' rates then in effect, provide or procure the provision of such reasonable assistance as you may request in relation to the investigation, management and resolution of the ICT-Related Incident.
 
 ### 2.6
 
-ZanReal Labs shall, at all times during the term of the Agreement, cooperate with your Regulators and their appointees in fulfilling their respective oversight and resolution functions.
+ZanReal shall, at all times during the term of the Agreement, cooperate with your Regulators and their appointees in fulfilling their respective oversight and resolution functions.
 
 ### 2.7
 
-In addition to any other termination rights in this Agreement, you may terminate this Agreement on the provision of thirty (30) days' notice to ZanReal Labs if:
+In addition to any other termination rights in this Agreement, you may terminate this Agreement on the provision of thirty (30) days' notice to ZanReal if:
 
-(a) ZanReal Labs commits a material breach of applicable law or this Addendum, and such breach is irremediable or (if such breach is remediable) fails to remedy that breach within 30 days after being notified in writing by you to do so;
+(a) ZanReal commits a material breach of applicable law or this Addendum, and such breach is irremediable or (if such breach is remediable) fails to remedy that breach within 30 days after being notified in writing by you to do so;
 
-(b) ZanReal Labs' contract with any material subcontractor terminates or expires without a reasonably similar replacement, with the result that ZanReal Labs is unable to perform the Service in accordance with this Agreement;
+(b) ZanReal' contract with any material subcontractor terminates or expires without a reasonably similar replacement, with the result that ZanReal is unable to perform the Service in accordance with this Agreement;
 
-(c) ZanReal Labs' breach of this Agreement has resulted in three (3) or more ICT-Related Incidents in any one (1) month period; or
+(c) ZanReal' breach of this Agreement has resulted in three (3) or more ICT-Related Incidents in any one (1) month period; or
 
 (d) you have received a binding order or other direction from a Regulator, compliance with which requires you to terminate this Agreement.
 
 ### 2.8
 
-ZanReal Labs shall perform or procure the performance of regular security testing of its ICT systems used in the performance of the Service and shall promptly mitigate or remediate any material issues identified by such tests.
+ZanReal shall perform or procure the performance of regular security testing of its ICT systems used in the performance of the Service and shall promptly mitigate or remediate any material issues identified by such tests.
 
 ### 2.9
 
-To the extent such information is not made available through ZanReal Labs' Trust Center (available at [zanreal.com/security](/security)), ZanReal Labs shall provide, upon reasonable request, any information reasonably requested by you from time to time in relation to ZanReal Labs' compliance with this Addendum.
+To the extent such information is not made available through ZanReal' Trust Center (available at [zanreal.com/security](/security)), ZanReal shall provide, upon reasonable request, any information reasonably requested by you from time to time in relation to ZanReal' compliance with this Addendum.
 
 ## 3. Definitions
 

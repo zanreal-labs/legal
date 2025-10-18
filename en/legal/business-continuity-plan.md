@@ -4,7 +4,7 @@ description: Comprehensive business continuity and disaster recovery procedures 
 categories: [iso27001, iso27002, business-continuity, disaster-recovery, isms, risk-management, cloud, resilience]
 ---
 
-ZanReal Labs ("ZanReal Labs", "we", "us", or "our") has established comprehensive business continuity and disaster recovery procedures to ensure operational resilience and maintain critical business functions during and after disruptive events. This plan supports our commitment to delivering reliable technology services to our customers worldwide.
+ZanReal ("ZanReal", "we", "us", or "our") has established comprehensive business continuity and disaster recovery procedures to ensure operational resilience and maintain critical business functions during and after disruptive events. This plan supports our commitment to delivering reliable technology services to our customers worldwide.
 
 ## Purpose and Scope
 
@@ -16,13 +16,13 @@ This Business Continuity and Disaster Recovery (BCDR) plan:
 - Minimizes impact on customers and stakeholders
 - Provides systematic recovery procedures for IT systems and services
 - Maintains compliance with regulatory and contractual obligations
-- Protects ZanReal Labs' reputation and financial stability
+- Protects ZanReal' reputation and financial stability
 
 ### Scope
 
 This plan covers:
 
-- All ZanReal Labs business operations and services
+- All ZanReal business operations and services
 - Cloud infrastructure across AWS, Microsoft Azure, and Google Cloud Platform
 - Customer-facing applications and platforms
 - Internal systems and networks

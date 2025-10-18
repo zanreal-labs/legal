@@ -1,28 +1,28 @@
 ---
 title: Privacy Policy
-description: At ZanReal Labs, we respect customers' need for privacy. We offer our Sites and Services (defined below) to customers and users either directly or via a reseller.
+description: At ZanReal, we respect customers' need for privacy. We offer our Sites and Services (defined below) to customers and users either directly or via a reseller.
 categories: [gdpr, privacy, ccpa, pipeda, data-protection, cookies, marketing, analytics, ai]
 ---
 
-At ZanReal Labs, we respect customers' need for privacy. We offer our Sites and Services (defined below) to customers and users either directly or via a reseller. Where we refer to our "Customers" in this Privacy Notice, we refer to customers that have entered into an agreement with us or our resellers to use the Services (each, an "Agreement"). Each Customer's respective website users or applicable visitors are referred to as their "End Users."
+At ZanReal, we respect customers' need for privacy. We offer our Sites and Services (defined below) to customers and users either directly or via a reseller. Where we refer to our "Customers" in this Privacy Notice, we refer to customers that have entered into an agreement with us or our resellers to use the Services (each, an "Agreement"). Each Customer's respective website users or applicable visitors are referred to as their "End Users."
 
 By using or accessing our Sites and Services in any manner, you accept the practices and policies outlined in this Privacy Notice and you acknowledge that we may process and share your information.
 
-## About ZanReal Labs Products and Services
+## About ZanReal Products and Services
 
-ZanReal Labs is a comprehensive technology service provider offering software development, marketing services, remote IT support, SEO optimization, and UI/UX design solutions. Our full-service approach combines cloud-native platforms for building and deploying modern applications with professional services that help businesses grow their digital presence and optimize their technology infrastructure.
+ZanReal is a comprehensive technology service provider offering software development, marketing services, remote IT support, SEO optimization, and UI/UX design solutions. Our full-service approach combines cloud-native platforms for building and deploying modern applications with professional services that help businesses grow their digital presence and optimize their technology infrastructure.
 
 Our software development services include custom application development, web platform creation, and cloud infrastructure solutions. Our marketing services encompass digital marketing campaigns, SEO optimization, and performance analytics. We provide remote IT support to help businesses maintain their technology systems, and our UI/UX design services ensure optimal user experiences across digital touchpoints.
 
-ZanReal Labs provides the tools, workflows, cloud infrastructure, and professional expertise businesses need to build, deploy, scale, and maintain high-performance websites, applications, and digital marketing presence. Our [documentation](/docs) includes relevant privacy-related details about our products and services, including real-time analytics, AI-powered integrations, marketing automation, and IT support systems.
+ZanReal provides the tools, workflows, cloud infrastructure, and professional expertise businesses need to build, deploy, scale, and maintain high-performance websites, applications, and digital marketing presence. Our [documentation](/docs) includes relevant privacy-related details about our products and services, including real-time analytics, AI-powered integrations, marketing automation, and IT support systems.
 
 ## Applicability
 
-This Privacy Notice ("Notice") explains ZanReal Labs practices regarding the collection, use, disclosure, and processing of your information; the rights and choices you may have with respect to such information; how you may contact us; and how we protect your information when you:
+This Privacy Notice ("Notice") explains ZanReal practices regarding the collection, use, disclosure, and processing of your information; the rights and choices you may have with respect to such information; how you may contact us; and how we protect your information when you:
 
-1. Visit ZanReal Labs websites, such as: zanreal.com, nemo.zanreal.com and other ZanReal Labs affiliated websites, such as blogs, community discussions, forums, and social media platforms (collectively our "Sites");
+1. Visit ZanReal websites, such as: zanreal.com, nemo.zanreal.com and other ZanReal affiliated websites, such as blogs, community discussions, forums, and social media platforms (collectively our "Sites");
 
-2. Access or use the products, services, and any related applications offered by ZanReal Labs, engage directly with us, or use third-party partners, products, professional services, or interfaces that employ ZanReal Labs technology, including our web-based platforms and professional services, (collectively, the "Services") as a Customer or authorized user, including but not limited to:
+2. Access or use the products, services, and any related applications offered by ZanReal, engage directly with us, or use third-party partners, products, professional services, or interfaces that employ ZanReal technology, including our web-based platforms and professional services, (collectively, the "Services") as a Customer or authorized user, including but not limited to:
 
     1. Software development services (custom applications, web platforms, cloud solutions);
     2. Marketing services (digital marketing campaigns, SEO optimization, performance analytics);
@@ -58,15 +58,15 @@ We collect the following information directly from you when using our Sites and 
 - **Domain Registration Information**. We collect registration data when you purchase a domain, such as domain name and registrant contact information. This data may be made publicly available per ICANN policies.
 - **User Content and File Information**. We collect your website information that you upload, post, deliver, or otherwise provide to the Service, such as source code, text, photographs, document, or other files including videos or recordings (collectively, "Customer Content"), Git information, and other files that you provide us.
 - **AI Product Information**. We collect information when you interact with certain features or Services related to our AI products, such as user chat prompts, uploaded images, design or text generations. Please see our [AI Policy](/legal/ai) for more information on the development, deployment, and usage of our AI products and features.
-- **Marketing Information**. When you engage and interact with our Marketing Activities or one of our sales or customer support representatives we collect information, including through form submissions, surveys, email communications, or phone calls to inquire about ZanReal Labs and our Services, such as the nature of your communication, contact preferences, and any information you choose to provide to us when completing any "free text" boxes.
+- **Marketing Information**. When you engage and interact with our Marketing Activities or one of our sales or customer support representatives we collect information, including through form submissions, surveys, email communications, or phone calls to inquire about ZanReal and our Services, such as the nature of your communication, contact preferences, and any information you choose to provide to us when completing any "free text" boxes.
 - **Image and Audio Information**. We may collect your image or audio recordings. If you contact us by phone or video, we may record those calls for quality assurance and training purposes.
-- **Troubleshooting and Support Information**. We collect information about your account preferences or information you provide when you contact us for support, such as the solution you use, the content of chats and other communications with ZanReal Labs, and other details that help us provide support or comply with legal obligations. Support information includes content of a message or attachments that you send to us.
-- **Social Media Information**. Our Sites and Services may use social media features, such as the "X" button and other sharing widgets. ZanReal Labs is not responsible for how these social media features collect, process, and disclose your information so we encourage you to review the social media platforms' privacy policies.
+- **Troubleshooting and Support Information**. We collect information about your account preferences or information you provide when you contact us for support, such as the solution you use, the content of chats and other communications with ZanReal, and other details that help us provide support or comply with legal obligations. Support information includes content of a message or attachments that you send to us.
+- **Social Media Information**. Our Sites and Services may use social media features, such as the "X" button and other sharing widgets. ZanReal is not responsible for how these social media features collect, process, and disclose your information so we encourage you to review the social media platforms' privacy policies.
 - **Any Information You Voluntarily Provide to Us**. For example, when you provide feedback on your experience with our Services or join a public discussion forum as part of our Marketing Activities.
 
 ### Information We Collect from Third Parties
 
-We receive information about Customers from third parties or ZanReal Labs partners that provide services or support our business operations. We limit our use of your information to the purposes described in this Notice. Information that we receive from third parties includes:
+We receive information about Customers from third parties or ZanReal partners that provide services or support our business operations. We limit our use of your information to the purposes described in this Notice. Information that we receive from third parties includes:
 
 - **Organization Information**. We collect information from referral partners, such as company name, contact name, job title, and company address.
 - **Transaction Information**. We collect information from our payment providers and partners, such as fraud metrics (i.e., financial risk scores) and details about failed payments.
@@ -78,7 +78,7 @@ We receive information from our Customers about their authorized users (i.e., ac
 - **Contact Information**. We collect information when a Customer adds you to their account and/or designates you as an authorized user, such as name, email address, and username.
 - **Website Information**. We collect information about traffic to and from Customers' websites, such as End User IP address, location information derived from IP address, and system configuration information.
 
-Customers are responsible for the content transmitted across our network (e.g., images, written content, graphics, runtime logs, etc.), any personal information they process, and following acceptable behavior practices when using our Services. For more information about ZanReal Labs shared responsibility model, please see our [Documentation](/docs).
+Customers are responsible for the content transmitted across our network (e.g., images, written content, graphics, runtime logs, etc.), any personal information they process, and following acceptable behavior practices when using our Services. For more information about ZanReal shared responsibility model, please see our [Documentation](/docs).
 
 ### Information We Collect Automatically
 
@@ -89,10 +89,10 @@ When you use or interact with our Sites and Services, we automatically collect o
 - **Service-Generated Information**. We collect and use information generated from using our Services and Sites, such as log files, Internet Protocol (IP) address, location information derived from your IP address, proxy server, diagnostics, capacity and usage information to determine storage requirements, performance information from our servers, data settings, and system configurations, including your elected privacy and security settings.
 - **Location Information**. We collect Customers' and End Users' city and country based on IP address. We do not identify precise location.
 - **Telemetry Information**. We collect anonymized statistical and telemetry information as well as aggregated, de-identified information about how you use our Sites and Services.
-- **API Information**. We collect functional data and customer-initiated events (i.e., authentication token, database URL, etc.) from Third-Party Services that connect or integrate with ZanReal Labs Services.
+- **API Information**. We collect functional data and customer-initiated events (i.e., authentication token, database URL, etc.) from Third-Party Services that connect or integrate with ZanReal Services.
 - **Cookies**. We collect information from your browser by using cookies (which may use a cookie ID) and similar tracking technologies, depending on your settings or preferences in connection with our Sites, Marketing Activities, and Services. Where required by applicable law, we obtain your consent for the use of cookies. You may choose to delete or not accept our cookies as described in our [Cookie Notice](/legal/cookies).
 
-From time to time, except as restricted by applicable law or our data processing addendums with our customers, we may combine information that we collect as described above with information we obtain from different sources. For example, we may combine information entered through a ZanReal Labs sales submission with information we receive from a third-party sales intelligence platform to enhance our ability to market our Services to potential Customers. We may combine usage information with feedback to improve our Services or inform Customers about products that may be relevant to them.
+From time to time, except as restricted by applicable law or our data processing addendums with our customers, we may combine information that we collect as described above with information we obtain from different sources. For example, we may combine information entered through a ZanReal sales submission with information we receive from a third-party sales intelligence platform to enhance our ability to market our Services to potential Customers. We may combine usage information with feedback to improve our Services or inform Customers about products that may be relevant to them.
 
 ## How We Use Information
 
@@ -102,9 +102,9 @@ We use your information as described in this Notice to provide our Sites and Ser
 
 - **Product Development and Improvement**: To improve functionality, quality, user experience, and develop new features.
 
-- **Support**: To provide Customer assistance and technical support, such as responding to your requests and inquiries. ZanReal Labs personnel are prohibited from viewing Customer Content, except when instructed by you, as necessary to resolve Customer support issues, or for security, Services integrity, or legal purposes.
+- **Support**: To provide Customer assistance and technical support, such as responding to your requests and inquiries. ZanReal personnel are prohibited from viewing Customer Content, except when instructed by you, as necessary to resolve Customer support issues, or for security, Services integrity, or legal purposes.
 
-- **Communication**: To send you marketing and administrative messages, such as technical or legal notices, invoices, product updates, surveys, security alerts, marketing promotions, newsletters, training, and/or provide other news or information about ZanReal Labs and/or our partners. Please see Your Privacy Choices and Rights to learn how to manage your communication preferences.
+- **Communication**: To send you marketing and administrative messages, such as technical or legal notices, invoices, product updates, surveys, security alerts, marketing promotions, newsletters, training, and/or provide other news or information about ZanReal and/or our partners. Please see Your Privacy Choices and Rights to learn how to manage your communication preferences.
 
 - **Account Administration**: To create and manage your account, complete transactions, and send billing, tax and other administrative information, such as purchase confirmations, receipts, and invoices.
 
@@ -126,15 +126,15 @@ When we no longer have an ongoing legitimate business need to process your infor
 
 We disclose information as necessary to provide the Sites and Services, as required by law, or as part of our business practices as follows. We only disclose information on a need-to-know basis where appropriate safeguards and contractual arrangements are in place and as described below.
 
-- **Corporate Affiliates**. We may share or transfer information to any person or entity which directly or indirectly controls, is controlled by or is under common control with ZanReal Labs, whether by ownership or otherwise ("Corporate Affiliate"). Any information relating to you that we provide to our Corporate Affiliates will be treated by those Corporate Affiliates in accordance with the terms of this Notice.
+- **Corporate Affiliates**. We may share or transfer information to any person or entity which directly or indirectly controls, is controlled by or is under common control with ZanReal, whether by ownership or otherwise ("Corporate Affiliate"). Any information relating to you that we provide to our Corporate Affiliates will be treated by those Corporate Affiliates in accordance with the terms of this Notice.
 
 - **New Owner and Other Corporate Transactions**. We may disclose or transfer your information to relevant third parties in the event of, or as part of the due diligence or during negotiations of, any proposed or actual reorganization, sale, merger, consolidation, joint venture, assignment, transfer, or other disposition of all or part of our business, assets, or stock (including in connection with any bankruptcy or similar proceeding). Personal information may be part of the transferred assets. You may be notified thereafter of any such change in ownership or control through email or other means as applicable.
 
-- **ZanReal Labs Customers**. We disclose information with our Customers when using our Services, in accordance with our contractual obligations. For example, if you join a ZanReal Labs Customer team within our Services, certain information about you including your name, contact information, and profile image may become accessible to that Customer and other individuals with whom the Customer shares access. If you are a Customer managing authorized users within our Services, such as an account administrator or team owner, we may share authorized user information for the purpose of facilitating Services-related requests.
+- **ZanReal Customers**. We disclose information with our Customers when using our Services, in accordance with our contractual obligations. For example, if you join a ZanReal Customer team within our Services, certain information about you including your name, contact information, and profile image may become accessible to that Customer and other individuals with whom the Customer shares access. If you are a Customer managing authorized users within our Services, such as an account administrator or team owner, we may share authorized user information for the purpose of facilitating Services-related requests.
 
-- **ZanReal Labs Partners**. We engage with several partners, such as third-party advertising networks, integration service partners, and resellers. We may share information with them to provide and support our Services, and to conduct our Marketing Activities.
+- **ZanReal Partners**. We engage with several partners, such as third-party advertising networks, integration service partners, and resellers. We may share information with them to provide and support our Services, and to conduct our Marketing Activities.
 
-- **Third-Party Service Providers**. We disclose information with third-party service providers that require access to information to support our operations and delivery of our Sites and Services. The third parties that ZanReal Labs discloses your information with may include:
+- **Third-Party Service Providers**. We disclose information with third-party service providers that require access to information to support our operations and delivery of our Sites and Services. The third parties that ZanReal discloses your information with may include:
 
   - Professional services advisors to protect and manage our business interests.
   - Cloud providers to provide data hosting, data storage and content delivery network services.
@@ -147,7 +147,7 @@ We disclose information as necessary to provide the Sites and Services, as requi
   - Advertising platforms, including Google Ads, to deliver targeted marketing content and measure campaign effectiveness.
   - Any other suppliers, sub-contractors, partners, vendors, and other service providers acting on our behalf.
 
-These service providers are authorized to use your information only as necessary to provide Services to ZanReal Labs. We may use and disclose aggregate information that does not identify or otherwise relate to an individual for any purpose unless we are prohibited from doing so under applicable law.
+These service providers are authorized to use your information only as necessary to provide Services to ZanReal. We may use and disclose aggregate information that does not identify or otherwise relate to an individual for any purpose unless we are prohibited from doing so under applicable law.
 
 - **Legal or Public Authorities**. We only disclose your information when:
 
@@ -155,7 +155,7 @@ These service providers are authorized to use your information only as necessary
   - We are required by law to comply or respond to any court order, legal process, government and/or regulatory request;
   - Necessary to enforce our agreements and this Notice;
   - Necessary to protect the security or integrity of our Sites and Services;
-  - Necessary to protect against harm to the rights, property, or safety of ZanReal Labs, its agents and affiliates, you, or the public as required or permitted by law; and
+  - Necessary to protect against harm to the rights, property, or safety of ZanReal, its agents and affiliates, you, or the public as required or permitted by law; and
   - Necessary to respond to an emergency which we believe in good faith requires us to disclose information to assist in preventing the death or serious bodily injury of any person.
 - **Any Other Party with Your Consent**. We may disclose your information with other third parties with your consent.
 
@@ -171,19 +171,19 @@ If you have any questions about the security of our Sites and Services, please c
 
 ## Third-Party Services
 
-Our Sites and Services may contain links to or integrations with other websites or applications not operated or controlled by ZanReal Labs ("Third-Party Services"). Certain Third-Party Services used to navigate to and from our Sites and Services have separate user terms and privacy notices that are independent of this Notice. We are not responsible for the content, accuracy, or opinions expressed in such Third-Party Services. We do not monitor or check these Third-Party Services for accuracy or completeness. We recommend carefully reviewing the terms and privacy notices of each Third-Party Service prior to use in alignment with your specific compliance, privacy, and security requirements.
+Our Sites and Services may contain links to or integrations with other websites or applications not operated or controlled by ZanReal ("Third-Party Services"). Certain Third-Party Services used to navigate to and from our Sites and Services have separate user terms and privacy notices that are independent of this Notice. We are not responsible for the content, accuracy, or opinions expressed in such Third-Party Services. We do not monitor or check these Third-Party Services for accuracy or completeness. We recommend carefully reviewing the terms and privacy notices of each Third-Party Service prior to use in alignment with your specific compliance, privacy, and security requirements.
 
 ## How We Transfer Your Information
 
 If you are accessing or using our Sites and Services or otherwise providing your information to us, you consent to the processing of your information in the United States and other jurisdictions in which we operate.
 
-To provide our Sites and Services, ZanReal Labs may store, process and transmit your information outside of your country of residence, which may have different data protection laws and may not offer the same level of protection or guarantees as in your country or the country where you initially provided the information. To the extent required by applicable law, whenever we transfer your information, we take the appropriate steps to protect your information, including the use of standard contractual clauses or other appropriate legal mechanisms.
+To provide our Sites and Services, ZanReal may store, process and transmit your information outside of your country of residence, which may have different data protection laws and may not offer the same level of protection or guarantees as in your country or the country where you initially provided the information. To the extent required by applicable law, whenever we transfer your information, we take the appropriate steps to protect your information, including the use of standard contractual clauses or other appropriate legal mechanisms.
 
 ## Data Privacy and International Transfers
 
-ZanReal Labs, as an entity established and operating within the European Union, does not participate in the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, or the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) administered by the U.S. Department of Commerce.
+ZanReal, as an entity established and operating within the European Union, does not participate in the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, or the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) administered by the U.S. Department of Commerce.
 
-All personal data processing activities conducted by ZanReal Labs are governed by the General Data Protection Regulation (GDPR) (Regulation (EU) 2016/679). We do not transfer personal data to the United States or to any other third country unless such transfer is carried out in accordance with the legal mechanisms provided under the GDPR, including Standard Contractual Clauses (SCCs) or other appropriate safeguards ensuring an adequate level of data protection.
+All personal data processing activities conducted by ZanReal are governed by the General Data Protection Regulation (GDPR) (Regulation (EU) 2016/679). We do not transfer personal data to the United States or to any other third country unless such transfer is carried out in accordance with the legal mechanisms provided under the GDPR, including Standard Contractual Clauses (SCCs) or other appropriate safeguards ensuring an adequate level of data protection.
 
 If you have any questions regarding our privacy practices or the processing of your personal data, please contact us at [privacy@zanreal.com](mailto:privacy@zanreal.com).
 
@@ -199,7 +199,7 @@ Depending on where you are located, you may have certain rights in connection wi
 
 ## Minimum Age Requirements for Our Sites and Services
 
-The Sites and Services are not directed or intended for use by individuals under the age of 16. To use ZanReal Labs Sites and Services, you must be old enough to consent to the processing of your information in your jurisdiction. We do not knowingly collect personal information from anyone under the age of 16. If you are a parent or guardian and you become aware that your child has provided us with personal information, please contact us. If we become aware that we have collected personal information from anyone under the age of 16 without verification or parental consent, we take steps to remove such information.
+The Sites and Services are not directed or intended for use by individuals under the age of 16. To use ZanReal Sites and Services, you must be old enough to consent to the processing of your information in your jurisdiction. We do not knowingly collect personal information from anyone under the age of 16. If you are a parent or guardian and you become aware that your child has provided us with personal information, please contact us. If we become aware that we have collected personal information from anyone under the age of 16 without verification or parental consent, we take steps to remove such information.
 
 ## Changes to Our Privacy Notice
 
@@ -278,7 +278,7 @@ This form for any other rights listed above that apply to your jurisdiction.
 
 We may need you to provide certain identifying information related to your account (i.e., user ID) or your recent interactions with us to verify your identity or the identity of any individual for whom you are requesting information. We cannot respond to your request if we cannot verify your identity and/or authority to make the request on behalf of another and confirm that the personal information relates to you.
 
-If you wish to use an authorized agent to submit a request to exercise your rights on your behalf, you must provide the authorized agent written permission signed by you. We may deny a request from an authorized agent if the agent cannot provide ZanReal Labs your signed permission demonstrating that the agent is authorized to act on your behalf.
+If you wish to use an authorized agent to submit a request to exercise your rights on your behalf, you must provide the authorized agent written permission signed by you. We may deny a request from an authorized agent if the agent cannot provide ZanReal your signed permission demonstrating that the agent is authorized to act on your behalf.
 
 We fulfill requests within 45 days of receiving your request. Please note that your request may be limited in certain cases, for example if complying with your request would conflict with:
 
@@ -291,7 +291,7 @@ We fulfill requests within 45 days of receiving your request. Please note that y
 
 This section applies to individuals based in the EEA and UK and outlines the processing of your personal information under Data Privacy Laws, including the General Data Protection Regulation ("GDPR").
 
-ZanReal Labs acts as a data controller for personal information that we collect about you while using our Sites, Services, or interacting with our Marketing Activities as described in this Notice. We act as a data processor on behalf of our Customers for the personal information contained in Customer Data.
+ZanReal acts as a data controller for personal information that we collect about you while using our Sites, Services, or interacting with our Marketing Activities as described in this Notice. We act as a data processor on behalf of our Customers for the personal information contained in Customer Data.
 
 This Notice does not apply to any personal information that we process as a data processor, as we only process that information on behalf of our Customers and in accordance with our agreements with them. A Customer that has entered into an agreement to use our Services (e.g., an individual or organization that uses our platform to deploy their websites) controls its instance of the Service and any associated data. If your personal information is contained in Customer Data, and you have any questions about the specific settings and privacy practices the relevant Customer has made to share your personal information with us, please contact the relevant Customer or review the Customer's privacy notice.
 

@@ -1,17 +1,17 @@
 ---
 title: Job Applicant Privacy Notice
-description: Privacy notice for job applicants at ZanReal Labs
+description: Privacy notice for job applicants at ZanReal
 categories: [privacy, gdpr, hr, employment, data-protection, recruitment, ccpa]
 ---
 
-Thank you for your interest in joining ZanReal Labs, including our subsidiaries and affiliates, ("ZanReal Labs," "we," "our," or "us"). This Job Applicant Privacy Notice ("Notice") explains how we collect, use, and share personal information when you apply for a job with ZanReal Labs. Capitalized terms not defined in this Notice are defined in our [Privacy Notice](/legal/privacy).
+Thank you for your interest in joining ZanReal, including our subsidiaries and affiliates, ("ZanReal," "we," "our," or "us"). This Job Applicant Privacy Notice ("Notice") explains how we collect, use, and share personal information when you apply for a job with ZanReal. Capitalized terms not defined in this Notice are defined in our [Privacy Notice](/legal/privacy).
 
-This Notice applies to job applicants and describes ZanReal Labs' privacy practices when you apply for employment or are considered for a position with us. Depending on where you apply for a position, we may provide additional information to you relating to the content of this Notice.
+This Notice applies to job applicants and describes ZanReal' privacy practices when you apply for employment or are considered for a position with us. Depending on where you apply for a position, we may provide additional information to you relating to the content of this Notice.
 
 This Notice does not cover the following:
 
-- **ZanReal Labs customers**: For more information about how ZanReal Labs collects and uses personal information in delivering our software development, marketing services, remote IT support, SEO optimization, and UI/UX design services to Customers, please see our [Privacy Notice](/legal/privacy).
-- **ZanReal Labs employees**: For more information about how ZanReal Labs collects and uses personal information from ZanReal Labs employees, please contact [privacy@zanreal.com](mailto:privacy@zanreal.com).
+- **ZanReal customers**: For more information about how ZanReal collects and uses personal information in delivering our software development, marketing services, remote IT support, SEO optimization, and UI/UX design services to Customers, please see our [Privacy Notice](/legal/privacy).
+- **ZanReal employees**: For more information about how ZanReal collects and uses personal information from ZanReal employees, please contact [privacy@zanreal.com](mailto:privacy@zanreal.com).
 
 ## Information We Collect
 
@@ -57,17 +57,17 @@ When you interact with us during our Recruitment Activities, we use your informa
 
 We share your personal information with third parties as required by law and as part of our business practices, as described below.
 
-### ZanReal Labs Employees
+### ZanReal Employees
 
-If you have been referred for a job by a current ZanReal Labs employee, with your consent, we may inform that employee about the outcome of the process.
+If you have been referred for a job by a current ZanReal employee, with your consent, we may inform that employee about the outcome of the process.
 
 ### New Owner and Other Corporate Transactions
 
-We provide your information to our affiliates. We transfer your personal information to a party unaffiliated with ZanReal Labs as part of a merger, acquisition, or sale of all or a portion of our assets. We will provide you with notice through our Sites if your personal information is transferred to a new entity.
+We provide your information to our affiliates. We transfer your personal information to a party unaffiliated with ZanReal as part of a merger, acquisition, or sale of all or a portion of our assets. We will provide you with notice through our Sites if your personal information is transferred to a new entity.
 
 ### Third-Party Service Providers
 
-We work with service providers, such as skills evaluation providers, software providers, recruiting agencies, advisors, and consultants to help us with our Recruitment Activities. Under contract with ZanReal Labs, these third parties are authorized to use your personal information only as necessary to provide these services or perform them on our behalf.
+We work with service providers, such as skills evaluation providers, software providers, recruiting agencies, advisors, and consultants to help us with our Recruitment Activities. Under contract with ZanReal, these third parties are authorized to use your personal information only as necessary to provide these services or perform them on our behalf.
 
 We do not sell your personal information to third parties.
 
@@ -82,11 +82,11 @@ We disclose your personal information when disclosure is:
 - Reasonably necessary to comply with any applicable law, regulation, subpoena, legal process, or enforceable governmental request
 - Necessary to enforce this Notice
 - Required to enforce our contractual obligations, including investigation of potential violations
-- Necessary to protect against harm to the rights, property, or safety of ZanReal Labs, you, or the public as required or permitted by law
+- Necessary to protect against harm to the rights, property, or safety of ZanReal, you, or the public as required or permitted by law
 
 ## International Transfers
 
-ZanReal Labs, as an entity established and operating within the European Union, processes personal data in accordance with the General Data Protection Regulation (GDPR) (Regulation (EU) 2016/679). We do not transfer personal data to third countries unless such transfer is carried out in accordance with the legal mechanisms provided under the GDPR, including Standard Contractual Clauses (SCCs) or other appropriate safeguards ensuring an adequate level of data protection.
+ZanReal, as an entity established and operating within the European Union, processes personal data in accordance with the General Data Protection Regulation (GDPR) (Regulation (EU) 2016/679). We do not transfer personal data to third countries unless such transfer is carried out in accordance with the legal mechanisms provided under the GDPR, including Standard Contractual Clauses (SCCs) or other appropriate safeguards ensuring an adequate level of data protection.
 
 If you are located outside the European Union and provide us with your personal information, we may process your personal information within the European Union and other countries where we operate. By submitting your application to us, you accept the collection, use, and processing of your personal information in accordance with applicable data protection laws.
 
@@ -94,7 +94,7 @@ To the extent required by law, we will take measures to protect the cross-border
 
 ## Legal Bases for Processing (for EEA Job Applicants)
 
-If you are an individual from the European Economic Area ("EEA"), we collect and process your personal information only where we have legal basis for doing so under applicable European Union laws. The legal basis depends on ZanReal Labs' relationship with you and how you choose to interact with us. This means that we collect and use your personal information only:
+If you are an individual from the European Economic Area ("EEA"), we collect and process your personal information only where we have legal basis for doing so under applicable European Union laws. The legal basis depends on ZanReal' relationship with you and how you choose to interact with us. This means that we collect and use your personal information only:
 
 - To fulfill our contractual obligations to you
 - To operate our business, including improving and developing our Recruitment Activities, for fraud prevention purposes, improving your experience, or other legitimate interests

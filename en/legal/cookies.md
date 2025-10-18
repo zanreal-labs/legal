@@ -6,7 +6,7 @@ categories: [cookies, privacy, gdpr, tracking, analytics, marketing, consent, ep
 
 We use cookies and similar technologies. This Cookie Policy explains how we use cookies in connection with our Services and your related choices.
 
-ZanReal Labs provides comprehensive technology solutions including software development, marketing services, remote IT support, SEO optimization, and UI/UX design. This policy covers cookie usage across all our digital touchpoints, including our website, client platforms, marketing campaigns, and service delivery systems.
+ZanReal provides comprehensive technology solutions including software development, marketing services, remote IT support, SEO optimization, and UI/UX design. This policy covers cookie usage across all our digital touchpoints, including our website, client platforms, marketing campaigns, and service delivery systems.
 
 Capitalized terms used in this Cookie Policy but not defined here will have the meanings given to them in our [Privacy Policy](/legal/privacy).
 You may also contact us at [privacy@zanreal.com](mailto:privacy@zanreal.com) with any additional questions.
